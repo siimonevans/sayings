@@ -1,0 +1,82 @@
+* {
+    box-sizing:border-box
+}
+
+body,
+html {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    padding: 0;
+    margin: 0;
+    color: #fff;
+    background-color: rgb(1, 42, 94);
+    background-image: radial-gradient(at 50% 100%, rgba(22, 158, 255, 0.75), rgb(1, 47, 94));
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: 300;
+    margin: 0 0 15px;
+}
+
+p {
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.65);
+}
+
+p span {
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.add-a-quote {
+    position: absolute;
+    top: 22px;
+    right: 20px;
+    background-color: rgba(255, 255, 255, 0.65);
+    color: #1c0272;
+    text-decoration: none;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 22px;
+    transition: background-color 300ms ease;
+}
+
+.add-a-quote:hover {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+.meta {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.aligner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.quote {
+    position: relative;
+    margin: 50px auto 0;
+    padding: 0 20px;
+    font-size: 45px;
+    text-align: center;
+    font-weight: 300;
+    max-width: 600px;
+    text-shadow: 1px 2px #0c4271;
+}
+
+.quote > div {
+    font-size: 18px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: none;
+}

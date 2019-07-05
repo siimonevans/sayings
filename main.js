@@ -85,7 +85,8 @@ const data = {
         82: "<div>Todd</div> I’m currently confused but know exactly what’s going on",
         83: "<div>Tomasz</div> Do you think nsa employs css wizards",
         84: "<div>Tomasz</div> Dont worry, james already resourced me for the next 5 years",
-        85: "<div>Chris</div> One arm buzzing, the other laminated"
+        85: "<div>Chris</div> One arm buzzing, the other laminated",
+        85: "<div>Nick L</div> If you do any hangouts it’ll look like you’re working from a prison"
     }
 }
 

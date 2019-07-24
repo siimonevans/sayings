@@ -88,7 +88,9 @@ const data = {
         85: "<div>Chris</div> One arm buzzing, the other laminated",
         85: "<div>Nick L</div> If you do any hangouts it’ll look like you’re working from a prison",
         86: "<div>Thibaud</div> How often do you use gitlab and how often are you pissed off at it?",
-        87: "<div>Nick L</div> ARGHHHHH it’s linted my html"
+        87: "<div>Nick L</div> ARGHHHHH it’s linted my html",
+        88: "<div>Nick L</div> Thibaud, aka captain hook",
+        89: "<div>Thibaud</div> I didn’t even get arrested crossing the border"
     }
 }
 

@@ -90,7 +90,8 @@ const data = {
         86: "<div>Thibaud</div> How often do you use gitlab and how often are you pissed off at it?",
         87: "<div>Nick L</div> ARGHHHHH it’s linted my html",
         88: "<div>Nick L</div> Thibaud, aka captain hook",
-        89: "<div>Thibaud</div> I didn’t even get arrested crossing the border"
+        89: "<div>Thibaud</div> I didn’t even get arrested crossing the border",
+        90: "<div>Simon</div> Nice guys don’t overflow: hidden"
     }
 }
 

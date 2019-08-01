@@ -94,7 +94,8 @@ const data = {
         90: "<div>Simon</div> Nice guys don’t overflow: hidden",
         91: "<div>Chris</div> gitlab search is tripe",
         92: "<div>Ben T</div> Slow, melodic, little bit sludgy but not scuzzy",
-        93: "<div>Nick L</div> We’ll definitely have something"
+        93: "<div>Nick L</div> We’ll definitely have something",
+        94: "<div>Chris</div> overflow hidden ftw"
     }
 }
 

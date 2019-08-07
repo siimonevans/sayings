@@ -96,7 +96,8 @@ const data = {
         92: "<div>Ben T</div> Slow, melodic, little bit sludgy but not scuzzy",
         93: "<div>Nick L</div> We’ll definitely have something",
         94: "<div>Chris</div> overflow hidden ftw",
-        95: "<div>Todd</div> It’s just ended up as a hairy elephant"
+        95: "<div>Todd</div> It’s just ended up as a hairy elephant",
+        96: "<div>Ben T</div> randomly listened to 3 hours of car driving the other day"
     }
 }
 

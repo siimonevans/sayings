@@ -99,7 +99,8 @@ const data = {
     95: "<div>Todd</div> It’s just ended up as a hairy elephant",
     96: "<div>Ben T</div> randomly listened to 3 hours of car driving the other day",
     97: "<div>Thibaud</div> Lives in desk",
-    98: "<div>Nick L</div> I'll add a notch"
+    98: "<div>Nick L</div> I'll add a notch",
+    99: "<div>Chris</div> Use the nosniff header by default"
   }
 };
 

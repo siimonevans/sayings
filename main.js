@@ -104,7 +104,7 @@ const data = {
     100: "<div>Mel</div> I call him the Baconator",
     101: "<div>Nick L</div> mm fermented herring",
     102: "<div>Nick L</div> is it orange squirrel or purple ufo",
-    103: "<div>Ben T</div> a bit quirky in the legs"
+    103: "<div>Ben T</div> clean but a bit quirky in the legs"
   }
 };
 

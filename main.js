@@ -119,7 +119,9 @@ const data = {
     115: "<div>Chris L</div> have you installed all the pips?",
     116: "<div>Nick L</div> everything doesn’t work",
     117: "<div>Anon</div> It’s either django or react native",
-    118: "<div>Thibaud</div> Sorry I'm late and wet"
+    118: "<div>Thibaud</div> Sorry I'm late and wet",
+    119: "<div>Chris L</div> my banana plants are getting battered"
+
   }
 };
 

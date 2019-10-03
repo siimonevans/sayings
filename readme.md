@@ -1,1 +1,1 @@
-http://playground.torchboxapps.com/sayings/
+https://simondevans.github.io/sayings

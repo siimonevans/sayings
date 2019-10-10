@@ -128,7 +128,8 @@ const data = {
     124: "<div>Chris L</div> I’m thinking zen fox next to a light bulb puzzle with a piece missing",
     125: "<div>Thibaud</div> Do you know what noise zebras make?",
     126: "<div>Thibaud</div> Do you want to use the sun?",
-    127: "<div>Thibaud</div> 'least gross' is a good target"
+    127: "<div>Thibaud</div> 'least gross' is a good target",
+    128: "<div>Nick L</div> just had to smash my microphone then write a number on it"
   }
 };
 

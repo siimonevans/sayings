@@ -132,7 +132,8 @@ const data = {
     128: "<div>Nick L</div> just had to smash my microphone then write a number on it",
     129: "<div>Todd</div> It’s not HTML5'ing for some reason",
     130: "<div>Thibaud</div> In France we call it 'the burial of the boy's life'",
-    131: "<div>Thibaud</div> I googled 'to chug'"
+    131: "<div>Thibaud</div> I googled 'to chug'",
+    132: "<div>Thibaud</div> Can you see the beak?"
   }
 };
 

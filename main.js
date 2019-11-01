@@ -543,6 +543,18 @@ const data = {
   133: {
     author: "Nick S",
     saying: "This is me"
+  },
+  134: {
+    author: "Chris L",
+    saying: "might actually chain nick to the oval"
+  },
+  135: {
+    author: "Thibaud",
+    saying: "I’m more of the boose and fondue type"
+  },
+  136: {
+    author: "Thibaud",
+    saying: "we can go to Helsinki and all get naked together in a sauna"
   }
 };
 

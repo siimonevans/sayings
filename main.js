@@ -555,6 +555,10 @@ const data = {
   136: {
     author: "Thibaud",
     saying: "we can go to Helsinki and all get naked together in a sauna"
+  },
+  137: {
+    author: "Nick L",
+    saying: "he will think your name is burglar"
   }
 };
 

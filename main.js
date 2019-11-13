@@ -559,6 +559,10 @@ const data = {
   137: {
     author: "Nick L",
     saying: "he will think your name is burglar"
+  },
+  138: {
+    author: "Tomasz",
+    saying: "new canteen serves tuna salad so that's good."
   }
 };
 

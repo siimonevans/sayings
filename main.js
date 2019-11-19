@@ -563,6 +563,10 @@ const data = {
   138: {
     author: "Tomasz",
     saying: "new canteen serves tuna salad so that's good."
+  },
+  139: {
+    author: "Jenny H",
+    saying: "he eats hot sauce on porridge"
   }
 };
 

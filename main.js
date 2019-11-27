@@ -567,6 +567,10 @@ const data = {
   139: {
     author: "Jenny H",
     saying: "he eats hot sauce on porridge"
+  },
+  140: {
+    author: "Chris L",
+    saying: "I probably would sleep in a bin to do that"
   }
 };
 

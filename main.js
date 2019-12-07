@@ -586,9 +586,10 @@ randomQuote = () => {
 };
 
 updateQuote = () => {
+  let selectedQuote = randomQuote();
   quoteContainer.innerHTML = `
-    <div>${randomQuote().author}</div>
-    ${randomQuote().saying}
+    <div>${selectedQuote.author}</div>
+    ${selectedQuote.saying}
   `;
 };
 

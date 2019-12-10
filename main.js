@@ -571,6 +571,10 @@ const data = {
   140: {
     author: "Chris L",
     saying: "I probably would sleep in a bin to do that"
+  },
+  141: {
+    author: "Nick L",
+    saying: "must be so he can run away from the bees faster"
   }
 };
 

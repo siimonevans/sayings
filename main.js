@@ -575,6 +575,10 @@ const data = {
   141: {
     author: "Nick L",
     saying: "must be so he can run away from the bees faster"
+  },
+  142: {
+    author: "Nick L",
+    saying: "My dongle is too heavy"
   }
 };
 

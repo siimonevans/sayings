@@ -579,6 +579,10 @@ const data = {
   142: {
     author: "Nick L",
     saying: "My dongle is too heavy"
+  },
+  143: {
+    author: "Todd",
+    saying: "The thing is, frankincense is leading the charge"
   }
 };
 

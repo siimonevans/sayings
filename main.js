@@ -587,6 +587,10 @@ const data = {
   144: {
     author: "Todd",
     saying: "You might even get to play on a welder"
+  },
+  145: {
+    author: "Ben D",
+    saying: "Christ, you do smell of beer"
   }
 };
 

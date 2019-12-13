@@ -583,6 +583,10 @@ const data = {
   143: {
     author: "Todd",
     saying: "The thing is, frankincense is leading the charge"
+  },
+  144: {
+    author: "Todd",
+    saying: "You might even get to play on a welder"
   }
 };
 

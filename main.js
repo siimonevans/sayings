@@ -591,6 +591,10 @@ const data = {
   145: {
     author: "Ben D",
     saying: "Christ, you do smell of beer"
+  },
+  146: {
+    author: "Nick L",
+    saying: "my weber started peeling"
   }
 };
 

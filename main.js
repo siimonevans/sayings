@@ -595,6 +595,10 @@ const data = {
   146: {
     author: "Nick L",
     saying: "my weber started peeling"
+  },
+  147: {
+    author: "Chris L",
+    saying: "Lick Nee"
   }
 };
 

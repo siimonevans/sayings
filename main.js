@@ -599,6 +599,10 @@ const data = {
   147: {
     author: "Chris L",
     saying: "Lick Nee"
+  },
+  148: {
+    author: "Chris L",
+    saying: "I’m not a filofax"
   }
 };
 

@@ -603,6 +603,10 @@ const data = {
   148: {
     author: "Chris L",
     saying: "I’m not a filofax"
+  },
+  149: {
+    author: "Tom S",
+    saying: "I thought someone was practising being an owl"
   }
 };
 

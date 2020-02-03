@@ -627,6 +627,10 @@ const data = {
   154: {
     author: "Simon",
     saying: "I’m not sure if I'm disgusted or impressed"
+  },
+  155: {
+    author: "Ben E",
+    saying: "Use the intermediate burger"
   }
 };
 

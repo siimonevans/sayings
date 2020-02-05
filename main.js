@@ -635,6 +635,10 @@ const data = {
   156: {
     author: "Nick L",
     saying: "I just cherry pick to master quick as fuck"
+  },
+  157: {
+    author: "Nick L",
+    saying: "Todd’s got his sausage out"
   }
 };
 

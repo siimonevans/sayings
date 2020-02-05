@@ -639,6 +639,10 @@ const data = {
   157: {
     author: "Nick L",
     saying: "Todd’s got his sausage out"
+  },
+  158: {
+    author: "Nick L",
+    saying: "head of transporting the sausage"
   }
 };
 

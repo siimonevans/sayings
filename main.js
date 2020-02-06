@@ -643,6 +643,10 @@ const data = {
   158: {
     author: "Nick L",
     saying: "head of transporting the sausage"
+  },
+  159: {
+    author: "Chris L",
+    saying: "unleash the gorilla"
   }
 };
 

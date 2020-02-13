@@ -667,6 +667,14 @@ const data = {
   164: {
     author: "Thibaud",
     saying: "Dick is Richard?"
+  },
+  165: {
+    author: "Will B",
+    saying: "I used mine for a pihole"
+  },
+  166: {
+    author: "Abigail",
+    saying: "Buttercream not fondant"
   }
 };
 

@@ -675,6 +675,10 @@ const data = {
   166: {
     author: "Abigail",
     saying: "Buttercream not fondant"
+  },
+  167: {
+    author: "Simon",
+    saying: "I have a very egg-shaped head"
   }
 };
 

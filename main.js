@@ -679,6 +679,14 @@ const data = {
   167: {
     author: "Simon",
     saying: "I have a very egg-shaped head"
+  },
+  168: {
+    author: "Nick L",
+    saying: "You almost feel disabled when you use an android phone"
+  },
+  169: {
+    author: "Nick L",
+    saying: "lorem welshum"
   }
 };
 

@@ -695,6 +695,10 @@ const data = {
   171: {
     author: "Chris L",
     saying: "deadly yet polite"
+  },
+  172: {
+    author: "Todd",
+    saying: "It's not but it is"
   }
 };
 

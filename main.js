@@ -699,6 +699,10 @@ const data = {
   172: {
     author: "Todd",
     saying: "It's not but it is"
+  },
+  173: {
+    author: "Nick L",
+    saying: "It's like an aquarium tank, but you can eat it"
   }
 };
 

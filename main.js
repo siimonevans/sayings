@@ -723,6 +723,14 @@ const data = {
   178: {
     author: "Abigail",
     saying: "savoury pancakes are like the devils pancakes"
+  },
+  179: {
+    author: "Chris L",
+    saying: "damn you you moreish little tongue shaped crisp"
+  },
+  180: {
+    author: "Ben D",
+    saying: "the code's a bit whiffy"
   }
 };
 

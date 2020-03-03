@@ -739,6 +739,15 @@ const data = {
   182: {
     author: "Chris L",
     saying: "my nose is already sweating"
+  },
+  183: {
+    author: "Chris L",
+    saying:
+      "reckon they’ll do a spin off of coronation street called coronavirus street?"
+  },
+  184: {
+    author: "Simon ",
+    saying: "only if you spread it on his device"
   }
 };
 

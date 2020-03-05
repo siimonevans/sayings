@@ -746,7 +746,7 @@ const data = {
       "reckon they’ll do a spin off of coronation street called coronavirus street?"
   },
   184: {
-    author: "Simon ",
+    author: "Simon",
     saying: "only if you spread it on his device"
   },
   185: {
@@ -756,6 +756,10 @@ const data = {
   186: {
     author: "Todd",
     saying: "where is here"
+  },
+  187: {
+    author: "Todd",
+    saying: "here is where"
   }
 };
 

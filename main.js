@@ -760,6 +760,10 @@ const data = {
   187: {
     author: "Todd",
     saying: "here is where"
+  },
+  188: {
+    author: "Abigail",
+    saying: "The smaller the baby, the easier it is to take on a plane"
   }
 };
 

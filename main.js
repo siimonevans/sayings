@@ -764,6 +764,14 @@ const data = {
   188: {
     author: "Abigail",
     saying: "The smaller the baby, the easier it is to take on a plane"
+  },
+  189: {
+    author: "Nick L",
+    saying: "automatically outputs my ascii face on any build"
+  },
+  190: {
+    author: "Cameron",
+    saying: "I guess imma get it from a dutty gabba slag"
   }
 };
 

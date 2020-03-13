@@ -772,6 +772,18 @@ const data = {
   190: {
     author: "Cameron",
     saying: "I guess imma get it from a dutty gabba slag"
+  },
+  191: {
+    author: "Abigail",
+    saying: "just keep adding in the mays"
+  },
+  192: {
+    author: "Tom R",
+    saying: "Don't rub your pubs in my face"
+  },
+  193: {
+    author: "Chris L",
+    saying: "I think i’d rather wrestle fifty bears, blindfolded"
   }
 };
 

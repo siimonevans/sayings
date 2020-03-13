@@ -1,3 +1,4 @@
+// Quote list
 const data = {
   1: {
     author: "Abigail",
@@ -787,29 +788,33 @@ const data = {
   }
 };
 
-let quoteContainer = document.getElementById("quote");
+const quoteContainer = document.getElementById("quote");
 
-let quotes = Object.keys(data).reduce(
+const quotes = Object.keys(data).reduce(
   (quoteArray, key) => [...quoteArray, data[key]],
   []
 );
 
+// Get random quote
 randomQuote = () => {
   return quotes[Math.floor(Math.random() * quotes.length)];
 };
 
+// Update DOM with quote
 updateQuote = () => {
-  let selectedQuote = randomQuote();
+  const selectedQuote = randomQuote();
   quoteContainer.innerHTML = `
     <div>${selectedQuote.author}</div>
     ${selectedQuote.saying}
   `;
 };
 
+// On load
 document.addEventListener("DOMContentLoaded", () => {
   updateQuote();
 });
 
+// On spacebar
 document.addEventListener("keyup", event => {
   if (event.keyCode == 32) {
     updateQuote();

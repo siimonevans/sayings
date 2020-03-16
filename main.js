@@ -785,6 +785,10 @@ const data = {
   193: {
     author: "Chris L",
     saying: "I think i’d rather wrestle fifty bears, blindfolded"
+  },
+  194: {
+    author: "Ben D",
+    saying: "people are too confused to mosh"
   }
 };
 

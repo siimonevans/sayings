@@ -789,6 +789,10 @@ const data = {
   194: {
     author: "Ben D",
     saying: "people are too confused to mosh"
+  },
+  195: {
+    author: "Tomasz",
+    saying: "it works sexy"
   }
 };
 

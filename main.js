@@ -793,6 +793,10 @@ const data = {
   195: {
     author: "Tomasz",
     saying: "it works sexy"
+  },
+  196: {
+    author: "Simon",
+    saying: "send the lobster"
   }
 };
 

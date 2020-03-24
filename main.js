@@ -805,6 +805,10 @@ const data = {
   198: {
     author: "Simon",
     saying: "rate my bourbon"
+  },
+  199: {
+    author: "Tomasz",
+    saying: "do you compete with the elders in the family?"
   }
 };
 

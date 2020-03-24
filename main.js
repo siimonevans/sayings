@@ -809,6 +809,10 @@ const data = {
   199: {
     author: "Tomasz",
     saying: "do you compete with the elders in the family?"
+  },
+  200: {
+    author: "Todd",
+    saying: "suns out guns out"
   }
 };
 

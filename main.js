@@ -845,6 +845,10 @@ const data = {
   208: {
     author: "Chris L",
     saying: "sleep under his nose"
+  },
+  209: {
+    author: "Nick L",
+    saying: "grab my arrow disabler"
   }
 };
 

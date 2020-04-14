@@ -861,6 +861,10 @@ const data = {
   212: {
     author: "Tomasz",
     saying: "you need patience young man"
+  },
+  213: {
+    author: "Tomasz",
+    saying: "I think I'm just going to show my parma ham"
   }
 };
 

@@ -878,6 +878,10 @@ const data = {
     author: "Tom R",
     saying: "you are the feng to my shui",
   },
+  217: {
+    author: "Cameron",
+    saying: "I called it dirty-master",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -874,6 +874,10 @@ const data = {
     author: "Chris L",
     saying: "may as well just buy a cow",
   },
+  216: {
+    author: "Tom R",
+    saying: "you are the feng to my shui",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

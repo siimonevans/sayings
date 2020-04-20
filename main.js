@@ -882,6 +882,10 @@ const data = {
     author: "Cameron",
     saying: "I called it dirty-master",
   },
+  218: {
+    author: "Nick L",
+    saying: "why is black, called black",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -886,6 +886,10 @@ const data = {
     author: "Nick L",
     saying: "why is black, called black",
   },
+  219: {
+    author: "Tomasz",
+    saying: "I can hear someone's noises",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

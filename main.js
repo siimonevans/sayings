@@ -894,6 +894,10 @@ const data = {
     author: "Chris L",
     saying: "just watched as a guy broke in my car whilst eating a big mac",
   },
+  221: {
+    author: "Tomasz",
+    saying: "I need some oxygen",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

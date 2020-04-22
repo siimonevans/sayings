@@ -902,6 +902,10 @@ const data = {
     author: "Abigail",
     saying: "hover is the enemy",
   },
+  223: {
+    author: "Abigail",
+    saying: "this project would be enhanced by place-puppy",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

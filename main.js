@@ -898,6 +898,10 @@ const data = {
     author: "Tomasz",
     saying: "I need some oxygen",
   },
+  222: {
+    author: "Abigail",
+    saying: "hover is the enemy",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

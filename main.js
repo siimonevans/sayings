@@ -906,6 +906,10 @@ const data = {
     author: "Abigail",
     saying: "this project would be enhanced by place-puppy",
   },
+  224: {
+    author: "Tomasz",
+    saying: "CTA bingo",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

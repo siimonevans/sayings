@@ -910,6 +910,10 @@ const data = {
     author: "Tomasz",
     saying: "CTA bingo",
   },
+  225: {
+    author: "Abigail",
+    saying: "simon would you like to be the broccoli",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

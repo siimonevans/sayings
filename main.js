@@ -914,6 +914,10 @@ const data = {
     author: "Abigail",
     saying: "simon would you like to be the broccoli",
   },
+  226: {
+    author: "Nick L",
+    saying: "you love a good fiddle",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -918,6 +918,10 @@ const data = {
     author: "Nick L",
     saying: "you love a good fiddle",
   },
+  227: {
+    author: "Chris L",
+    saying: "it’s the one and only T O double D",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

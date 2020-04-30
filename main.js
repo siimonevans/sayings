@@ -922,6 +922,10 @@ const data = {
     author: "Chris L",
     saying: "it’s the one and only T O double D",
   },
+  228: {
+    author: "Tomasz",
+    saying: "thanks for being so agile, like a jaguar",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

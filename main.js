@@ -926,6 +926,10 @@ const data = {
     author: "Tomasz",
     saying: "thanks for being so agile, like a jaguar",
   },
+  229: {
+    author: "Abigail",
+    saying: "I'm hoping to make friends with dolphins",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

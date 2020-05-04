@@ -934,6 +934,10 @@ const data = {
     author: "Nick L",
     saying: "my eyes are still trying to open",
   },
+  231: {
+    author: "Nick L",
+    saying: "filthy grabber",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -930,6 +930,10 @@ const data = {
     author: "Abigail",
     saying: "I'm hoping to make friends with dolphins",
   },
+  230: {
+    author: "Nick L",
+    saying: "my eyes are still trying to open",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

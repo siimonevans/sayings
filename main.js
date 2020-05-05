@@ -950,6 +950,10 @@ const data = {
     author: "Tomasz",
     saying: "Can you stop misspelling Apple Pay or I'll kill you",
   },
+  235: {
+    author: "Tomasz",
+    saying: "You don't have a beard, you don't understand",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

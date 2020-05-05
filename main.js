@@ -938,6 +938,18 @@ const data = {
     author: "Nick L",
     saying: "filthy grabber",
   },
+  232: {
+    author: "Abigail",
+    saying: "you make an excellent note",
+  },
+  233: {
+    author: "Chris",
+    saying: "do you want to borrow my lobster costume for project kick off",
+  },
+  234: {
+    author: "Tomasz",
+    saying: "Can you stop misspelling Apple Pay or I'll kill you",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

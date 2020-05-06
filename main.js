@@ -958,6 +958,10 @@ const data = {
     author: "Tomasz",
     saying: "hey wizards",
   },
+  237: {
+    author: "Chris L",
+    saying: "oo oat cream",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

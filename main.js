@@ -954,6 +954,10 @@ const data = {
     author: "Tomasz",
     saying: "You don't have a beard, you don't understand",
   },
+  236: {
+    author: "Tomasz",
+    saying: "hey wizards",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

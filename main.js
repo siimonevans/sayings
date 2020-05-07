@@ -962,6 +962,18 @@ const data = {
     author: "Chris L",
     saying: "oo oat cream",
   },
+  238: {
+    author: "Chris L",
+    saying: "you just get paid in wands",
+  },
+  239: {
+    author: "Nick L",
+    saying: "person with the biggest wand wins",
+  },
+  240: {
+    author: "Abigail",
+    saying: "I'd love to see a goat on the beach drinking cocktails",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -974,6 +974,10 @@ const data = {
     author: "Abigail",
     saying: "I'd love to see a goat on the beach drinking cocktails",
   },
+  241: {
+    author: "Simon",
+    saying: "this goat needs optimising",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

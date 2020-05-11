@@ -982,6 +982,10 @@ const data = {
     author: "Nick L",
     saying: "just lie down and spam it into people",
   },
+  243: {
+    author: "Abigail",
+    saying: "what about a life changing chicken?",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

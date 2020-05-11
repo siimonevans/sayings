@@ -978,6 +978,10 @@ const data = {
     author: "Simon",
     saying: "this goat needs optimising",
   },
+  242: {
+    author: "Nick L",
+    saying: "just lie down and spam it into people",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

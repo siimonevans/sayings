@@ -986,6 +986,10 @@ const data = {
     author: "Abigail",
     saying: "what about a life changing chicken?",
   },
+  244: {
+    author: "Chris L",
+    saying: "show them your pimped out weapon",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

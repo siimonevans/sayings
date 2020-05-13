@@ -990,6 +990,14 @@ const data = {
     author: "Chris L",
     saying: "show them your pimped out weapon",
   },
+  245: {
+    author: "Abigail",
+    saying: "I wouldn't mind hearing a baby goat in the middle of the night",
+  },
+  246: {
+    author: "Tomasz",
+    saying: "I need to move your faces",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

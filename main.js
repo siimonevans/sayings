@@ -998,6 +998,10 @@ const data = {
     author: "Tomasz",
     saying: "I need to move your faces",
   },
+  247: {
+    author: "Tom D",
+    saying: "I wouldn't fancy my chances against a crow",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

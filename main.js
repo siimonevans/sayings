@@ -1002,6 +1002,10 @@ const data = {
     author: "Tom D",
     saying: "I wouldn't fancy my chances against a crow",
   },
+  248: {
+    author: "Kevin",
+    saying: "Where there's blame there's a claim",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

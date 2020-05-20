@@ -1006,6 +1006,11 @@ const data = {
     author: "Kevin",
     saying: "Where there's blame there's a claim",
   },
+  249: {
+    author: "Thibaud",
+    saying:
+      "you don’t even need to use english, you can describe things based on their very essence",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1011,6 +1011,10 @@ const data = {
     saying:
       "you don’t even need to use english, you can describe things based on their very essence",
   },
+  250: {
+    author: "Cameron",
+    saying: "sawceee",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

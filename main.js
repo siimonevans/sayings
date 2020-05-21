@@ -1015,6 +1015,10 @@ const data = {
     author: "Cameron",
     saying: "sawceee",
   },
+  251: {
+    author: "Steve S",
+    saying: "I could crush a rocket salad right now",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

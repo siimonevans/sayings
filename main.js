@@ -1019,6 +1019,10 @@ const data = {
     author: "Steve S",
     saying: "I could crush a rocket salad right now",
   },
+  252: {
+    author: "Simon",
+    saying: "Storage Blob Data Contributor",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

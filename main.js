@@ -1023,6 +1023,10 @@ const data = {
     author: "Simon",
     saying: "Storage Blob Data Contributor",
   },
+  253: {
+    author: "Tomasz",
+    saying: "it's a sonarcloud curse",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

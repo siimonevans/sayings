@@ -1027,6 +1027,10 @@ const data = {
     author: "Tomasz",
     saying: "it's a sonarcloud curse",
   },
+  254: {
+    author: "Tomasz",
+    saying: "I could do a sentence for harassment",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

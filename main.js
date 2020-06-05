@@ -1031,6 +1031,14 @@ const data = {
     author: "Tomasz",
     saying: "I could do a sentence for harassment",
   },
+  255: {
+    author: "Nick L",
+    saying: "motorised zorb",
+  },
+  256: {
+    author: "Chris L",
+    saying: "underground zorb museum",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

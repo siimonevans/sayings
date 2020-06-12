@@ -1043,6 +1043,10 @@ const data = {
     author: "Chris L",
     saying: "tickle your belly",
   },
+  258: {
+    author: "Nick L",
+    saying: "head of beard growth",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

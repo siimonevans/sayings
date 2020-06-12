@@ -1047,6 +1047,10 @@ const data = {
     author: "Nick L",
     saying: "head of beard growth",
   },
+  259: {
+    author: "Tomasz",
+    saying: "there's way more PhD around than people think",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

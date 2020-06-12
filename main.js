@@ -1039,6 +1039,10 @@ const data = {
     author: "Chris L",
     saying: "underground zorb museum",
   },
+  257: {
+    author: "Chris L",
+    saying: "tickle your belly",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

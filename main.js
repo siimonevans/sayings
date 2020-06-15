@@ -1051,6 +1051,10 @@ const data = {
     author: "Tomasz",
     saying: "there's way more PhD around than people think",
   },
+  260: {
+    author: "Will B",
+    saying: "Snape would teach IE11 cross-compatibility",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

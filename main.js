@@ -1055,6 +1055,14 @@ const data = {
     author: "Will B",
     saying: "Snape would teach IE11 cross-compatibility",
   },
+  261: {
+    author: "Tomasz",
+    saying: "I feel like a monkey in a circus",
+  },
+  262: {
+    author: "Chris L",
+    saying: "open gills on hover",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1063,6 +1063,10 @@ const data = {
     author: "Chris L",
     saying: "open gills on hover",
   },
+  263: {
+    author: "Nick V",
+    saying: "I’m going to get it out and flop it on the table",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

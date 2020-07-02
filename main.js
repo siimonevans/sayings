@@ -1067,6 +1067,10 @@ const data = {
     author: "Nick V",
     saying: "I’m going to get it out and flop it on the table",
   },
+  264: {
+    author: "Devon",
+    saying: "Do we need to keep David Cameron or can he be recycled?",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

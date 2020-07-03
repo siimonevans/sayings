@@ -1071,6 +1071,10 @@ const data = {
     author: "Devon",
     saying: "Do we need to keep David Cameron or can he be recycled?",
   },
+  265: {
+    author: "Nick L",
+    saying: "that game where you have to put limbs in certain places",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

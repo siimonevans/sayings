@@ -1075,6 +1075,10 @@ const data = {
     author: "Nick L",
     saying: "that game where you have to put limbs in certain places",
   },
+  266: {
+    author: "Tomasz",
+    saying: "Utter buzzword bollocks",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

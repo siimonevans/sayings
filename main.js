@@ -1079,6 +1079,10 @@ const data = {
     author: "Tomasz",
     saying: "Utter buzzword bollocks",
   },
+  267: {
+    author: "Nick L",
+    saying: "can’t you see my crab",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

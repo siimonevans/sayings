@@ -1083,6 +1083,10 @@ const data = {
     author: "Nick L",
     saying: "can’t you see my crab",
   },
+  268: {
+    author: "Ben D",
+    saying: "like being stamped to death by mammoths",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

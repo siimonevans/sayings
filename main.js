@@ -1087,6 +1087,10 @@ const data = {
     author: "Ben D",
     saying: "like being stamped to death by mammoths",
   },
+  269: {
+    author: "Nick L",
+    saying: "no lobsters in the library",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

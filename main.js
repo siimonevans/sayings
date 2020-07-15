@@ -1091,6 +1091,10 @@ const data = {
     author: "Nick L",
     saying: "no lobsters in the library",
   },
+  270: {
+    author: "Chris L",
+    saying: "it’s a beast and it’s only just been born",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

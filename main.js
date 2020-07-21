@@ -1099,6 +1099,10 @@ const data = {
     author: "Thibaud",
     saying: "I just need to move to California",
   },
+  272: {
+    author: "Ben D",
+    saying: "cross repository blob mount",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

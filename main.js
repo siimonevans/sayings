@@ -1095,6 +1095,10 @@ const data = {
     author: "Chris L",
     saying: "it’s a beast and it’s only just been born",
   },
+  271: {
+    author: "Thibaud",
+    saying: "I just need to move to California",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

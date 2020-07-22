@@ -1107,6 +1107,10 @@ const data = {
     author: "Abigail",
     saying: "I am a secret wizard",
   },
+  274: {
+    author: "Ben D",
+    saying: "near the back of the kama sutra, that one",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

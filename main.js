@@ -1103,6 +1103,10 @@ const data = {
     author: "Ben D",
     saying: "cross repository blob mount",
   },
+  273: {
+    author: "Abigail",
+    saying: "I am a secret wizard",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

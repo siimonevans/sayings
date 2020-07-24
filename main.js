@@ -1111,6 +1111,10 @@ const data = {
     author: "Ben D",
     saying: "near the back of the kama sutra, that one",
   },
+  275: {
+    author: "Todd",
+    saying: "everything is a blob",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

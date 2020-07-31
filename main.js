@@ -1115,6 +1115,10 @@ const data = {
     author: "Todd",
     saying: "everything is a blob",
   },
+  276: {
+    author: "Chris L",
+    saying: "Bay Rans",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

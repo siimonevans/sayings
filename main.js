@@ -1123,6 +1123,10 @@ const data = {
     author: "Tomasz",
     saying: "shark onesie is fine",
   },
+  279: {
+    author: "Nick L",
+    saying: "wouldn’t worry, it does sometimes do weird things",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

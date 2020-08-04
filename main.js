@@ -1127,6 +1127,10 @@ const data = {
     author: "Nick L",
     saying: "wouldn’t worry, it does sometimes do weird things",
   },
+  280: {
+    author: "Tomasz",
+    saying: "is it supposed to be satanist somehow?",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

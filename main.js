@@ -1135,6 +1135,14 @@ const data = {
     author: "Chris L",
     saying: "I am the docs",
   },
+  282: {
+    author: "Chris L",
+    saying: "told the whale to piss off and now fan is back to normal",
+  },
+  283: {
+    author: "Chris L",
+    saying: "as if a whale could swim with 6 shipping containers on it",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1131,6 +1131,10 @@ const data = {
     author: "Tomasz",
     saying: "is it supposed to be satanist somehow?",
   },
+  281: {
+    author: "Chris L",
+    saying: "I am the docs",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1143,6 +1143,10 @@ const data = {
     author: "Chris L",
     saying: "as if a whale could swim with 6 shipping containers on it",
   },
+  284: {
+    author: "Colin",
+    saying: "in the 1950s, the most popular type of banana was called big mike",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1147,6 +1147,14 @@ const data = {
     author: "Colin",
     saying: "in the 1950s, the most popular type of banana was called big mike",
   },
+  285: {
+    author: "Nick L",
+    saying: "always have a bow and arrow handy",
+  },
+  286: {
+    author: "Nick L",
+    saying: "pretty sure you’ve always been dead",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

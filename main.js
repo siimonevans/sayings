@@ -1155,6 +1155,14 @@ const data = {
     author: "Nick L",
     saying: "pretty sure you’ve always been dead",
   },
+  287: {
+    author: "Chris L",
+    saying: "on the zinsser",
+  },
+  288: {
+    author: "Chris L",
+    saying: "couple of zinssers",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

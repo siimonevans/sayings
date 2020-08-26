@@ -1163,6 +1163,10 @@ const data = {
     author: "Chris L",
     saying: "couple of zinssers",
   },
+  289: {
+    author: "Chris L",
+    saying: "charge it through the nose",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

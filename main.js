@@ -1167,6 +1167,10 @@ const data = {
     author: "Chris L",
     saying: "charge it through the nose",
   },
+  290: {
+    author: "Chris L",
+    saying: "seed sensations is a quality loaf",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

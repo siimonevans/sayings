@@ -1179,6 +1179,10 @@ const data = {
     author: "Nick L",
     saying: "I’m getting distracted by the smells",
   },
+  293: {
+    author: "Chris L",
+    saying: "maybe I should just stop squashing",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

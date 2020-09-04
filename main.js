@@ -1183,6 +1183,10 @@ const data = {
     author: "Chris L",
     saying: "maybe I should just stop squashing",
   },
+  294: {
+    author: "Nick L",
+    saying: "need detective pikachu",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

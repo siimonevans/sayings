@@ -1187,6 +1187,10 @@ const data = {
     author: "Nick L",
     saying: "need detective pikachu",
   },
+  295: {
+    author: "Ben D",
+    saying: "I’m shit at this but I’m not that shit",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1191,6 +1191,10 @@ const data = {
     author: "Ben D",
     saying: "I’m shit at this but I’m not that shit",
   },
+  296: {
+    author: "Steve S",
+    saying: "I deleted the repo so no one has any issues",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

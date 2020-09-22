@@ -1195,6 +1195,10 @@ const data = {
     author: "Steve S",
     saying: "I deleted the repo so no one has any issues",
   },
+  297: {
+    author: "Nick L",
+    saying: "plugged into the pineaptrix",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

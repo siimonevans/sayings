@@ -1199,6 +1199,10 @@ const data = {
     author: "Nick L",
     saying: "plugged into the pineaptrix",
   },
+  298: {
+    author: "Chris L",
+    saying: "what is that fatty gap about",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

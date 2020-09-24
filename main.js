@@ -1203,6 +1203,10 @@ const data = {
     author: "Chris L",
     saying: "what is that fatty gap about",
   },
+  299: {
+    author: "Chris L",
+    saying: "Is it linting itself",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

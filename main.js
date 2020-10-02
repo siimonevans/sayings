@@ -1211,6 +1211,10 @@ const data = {
     author: "Chris L",
     saying: "I miss seeing all the variables",
   },
+  301: {
+    author: "Nick L",
+    saying: "not seeing any kittens",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

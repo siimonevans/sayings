@@ -1207,6 +1207,10 @@ const data = {
     author: "Chris L",
     saying: "Is it linting itself",
   },
+  300: {
+    author: "Chris L",
+    saying: "I miss seeing all the variables",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

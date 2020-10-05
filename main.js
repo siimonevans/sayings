@@ -1215,6 +1215,10 @@ const data = {
     author: "Nick L",
     saying: "not seeing any kittens",
   },
+  302: {
+    author: "Tomasz",
+    saying: "you owe me a cobra",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

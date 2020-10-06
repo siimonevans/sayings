@@ -1219,6 +1219,10 @@ const data = {
     author: "Tomasz",
     saying: "you owe me a cobra",
   },
+  303: {
+    author: "Steve S",
+    saying: "I've had 5 amazing seizures this morning",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

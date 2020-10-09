@@ -1223,6 +1223,10 @@ const data = {
     author: "Steve S",
     saying: "I've had 5 amazing seizures this morning",
   },
+  304: {
+    author: "Chris L",
+    saying: "just lob it all in a zorb",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

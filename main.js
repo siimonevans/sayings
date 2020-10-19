@@ -1227,6 +1227,10 @@ const data = {
     author: "Chris L",
     saying: "just lob it all in a zorb",
   },
+  305: {
+    author: "Nick L",
+    saying: "I’ll do it kneeless",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

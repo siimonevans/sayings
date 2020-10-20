@@ -1231,6 +1231,10 @@ const data = {
     author: "Nick L",
     saying: "I’ll do it kneeless",
   },
+  306: {
+    author: "Chris L",
+    saying: "can you not just behead the bird?",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

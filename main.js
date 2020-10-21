@@ -1235,6 +1235,10 @@ const data = {
     author: "Chris L",
     saying: "can you not just behead the bird?",
   },
+  307: {
+    author: "Ben D",
+    saying: "hunt and peck with one hand was faster ",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

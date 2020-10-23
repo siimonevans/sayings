@@ -1237,7 +1237,15 @@ const data = {
   },
   307: {
     author: "Ben D",
-    saying: "hunt and peck with one hand was faster ",
+    saying: "hunt and peck with one hand was faster",
+  },
+  308: {
+    author: "Todd",
+    saying: "somewhere it has to be deanonamisable",
+  },
+  309: {
+    author: "Nick L",
+    saying: "chief of conflict resolution",
   },
 };
 

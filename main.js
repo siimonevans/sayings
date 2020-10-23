@@ -1251,6 +1251,10 @@ const data = {
     author: "Nick L",
     saying: "I’m head of headshots mate",
   },
+  311: {
+    author: "Simon",
+    saying: "I’ll just get my sloth out",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

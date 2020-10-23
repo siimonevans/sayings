@@ -1247,6 +1247,10 @@ const data = {
     author: "Nick L",
     saying: "chief of conflict resolution",
   },
+  310: {
+    author: "Nick L",
+    saying: "I’m head of headshots mate",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

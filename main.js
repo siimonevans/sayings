@@ -1260,6 +1260,11 @@ const data = {
     saying:
       "If you love something, <strike>set it free</strike> deploy it on friday",
   },
+  312: {
+    author: "Ben D",
+    saying:
+      "I'm really looking to forward to trying to work out whether cameron is talking about thibaud or tibor",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

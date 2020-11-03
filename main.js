@@ -1269,6 +1269,10 @@ const data = {
     author: "Nick L",
     saying: "the borbonator",
   },
+  314: {
+    author: "Chris L",
+    saying: "just whack some LEDs in the nana’s",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

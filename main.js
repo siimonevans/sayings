@@ -1265,6 +1265,10 @@ const data = {
     saying:
       "I'm really looking to forward to trying to work out whether cameron is talking about thibaud or tibor",
   },
+  313: {
+    author: "Nick L",
+    saying: "the borbonator",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

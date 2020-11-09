@@ -1273,6 +1273,10 @@ const data = {
     author: "Chris L",
     saying: "just whack some LEDs in the nana’s",
   },
+  315: {
+    author: "Chris L",
+    saying: "does everything get it’s own zorb?",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

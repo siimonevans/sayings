@@ -1285,6 +1285,10 @@ const data = {
     author: "Nick L",
     saying: "flown in via stork express",
   },
+  318: {
+    author: "Nick L",
+    saying: "tactical pre-main puke",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

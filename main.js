@@ -1281,6 +1281,10 @@ const data = {
     author: "Nick L",
     saying: "bourbon api only works with html",
   },
+  317: {
+    author: "Nick L",
+    saying: "flown in via stork express",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

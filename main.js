@@ -1289,6 +1289,10 @@ const data = {
     author: "Nick L",
     saying: "tactical pre-main puke",
   },
+  319: {
+    author: "Nick L",
+    saying: "might accidentally bath the dj instead of the bird though",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

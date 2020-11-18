@@ -1293,6 +1293,10 @@ const data = {
     author: "Nick L",
     saying: "might accidentally bath the dj instead of the bird though",
   },
+  320: {
+    author: "Nick L",
+    saying: "Chris loves a little sausage",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

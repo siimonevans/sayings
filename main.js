@@ -1297,6 +1297,10 @@ const data = {
     author: "Nick L",
     saying: "Chris loves a little sausage",
   },
+  321: {
+    author: "Nick L",
+    saying: "I don’t think I’m functioning",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

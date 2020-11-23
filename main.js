@@ -1301,6 +1301,10 @@ const data = {
     author: "Nick L",
     saying: "I don’t think I’m functioning",
   },
+  322: {
+    author: "Nick L",
+    saying: "magic sometimes has odd side effects",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

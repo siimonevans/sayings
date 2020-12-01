@@ -1313,6 +1313,14 @@ const data = {
     author: "Chris L",
     saying: "get a lamp on it",
   },
+  325: {
+    author: "Chris L",
+    saying: "woff woff",
+  },
+  326: {
+    author: "Chris L",
+    saying: "I just answer ‘egg’ to every question",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

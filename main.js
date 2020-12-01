@@ -1321,6 +1321,10 @@ const data = {
     author: "Chris L",
     saying: "I just answer ‘egg’ to every question",
   },
+  327: {
+    author: "Thibaud",
+    saying: "Oh, what I have done...",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

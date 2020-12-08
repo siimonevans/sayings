@@ -1325,6 +1325,10 @@ const data = {
     author: "Thibaud",
     saying: "Oh, what I have done...",
   },
+  328: {
+    author: "Simon",
+    saying: "it’s 250 lines of filth",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

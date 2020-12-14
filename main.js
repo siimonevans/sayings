@@ -1329,6 +1329,10 @@ const data = {
     author: "Simon",
     saying: "it’s 250 lines of filth",
   },
+  329: {
+    author: "Nick L",
+    saying: "best make them biteproof",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

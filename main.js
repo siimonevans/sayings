@@ -1333,6 +1333,10 @@ const data = {
     author: "Nick L",
     saying: "best make them biteproof",
   },
+  330: {
+    author: "Nick L",
+    saying: "Deirdre wants to see Alan’s large marrow",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

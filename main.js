@@ -1341,6 +1341,10 @@ const data = {
     author: "Chris L",
     saying: "djyagtail",
   },
+  332: {
+    author: "Chris L",
+    saying: "imagine being 300 years old",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1337,6 +1337,10 @@ const data = {
     author: "Nick L",
     saying: "Deirdre wants to see Alan’s large marrow",
   },
+  331: {
+    author: "Chris L",
+    saying: "djyagtail",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

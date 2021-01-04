@@ -1345,6 +1345,10 @@ const data = {
     author: "Chris L",
     saying: "imagine being 300 years old",
   },
+  333: {
+    author: "Nick L",
+    saying: "don’t want my bore hole running dry",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

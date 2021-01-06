@@ -1349,6 +1349,14 @@ const data = {
     author: "Nick L",
     saying: "don’t want my bore hole running dry",
   },
+  334: {
+    author: "Nick L",
+    saying: "would you like to vasaline his ears",
+  },
+  335: {
+    author: "Nick L",
+    saying: "right in the bhaji",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

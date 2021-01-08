@@ -1357,6 +1357,10 @@ const data = {
     author: "Nick L",
     saying: "right in the bhaji",
   },
+  336: {
+    author: "Chris L",
+    saying: "they were eating it, getting wired and causing mayhem",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

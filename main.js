@@ -1361,6 +1361,10 @@ const data = {
     author: "Chris L",
     saying: "they were eating it, getting wired and causing mayhem",
   },
+  337: {
+    author: "Chris L",
+    saying: "sounded like I was in a foam sandwich",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

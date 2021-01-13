@@ -1365,6 +1365,10 @@ const data = {
     author: "Chris L",
     saying: "sounded like I was in a foam sandwich",
   },
+  338: {
+    author: "Ben D",
+    saying: "available in 'goth jizz burst'",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

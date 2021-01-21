@@ -1369,6 +1369,11 @@ const data = {
     author: "Ben D",
     saying: "available in 'goth jizz burst'",
   },
+  339: {
+    author: "Nick L",
+    saying:
+      "it’s like a two components, but with the same component twice inside'",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1374,6 +1374,14 @@ const data = {
     saying:
       "it’s like a two components, but with the same component twice inside'",
   },
+  340: {
+    author: "Ben D",
+    saying: "I’ve always had a good guitar gurn",
+  },
+  341: {
+    author: "Ben D",
+    saying: "like a bulldog eating wasps",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

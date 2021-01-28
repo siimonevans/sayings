@@ -1382,6 +1382,10 @@ const data = {
     author: "Ben D",
     saying: "like a bulldog eating wasps",
   },
+  342: {
+    author: "Chris L",
+    saying: "did she pull out her oboe",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

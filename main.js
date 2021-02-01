@@ -1386,6 +1386,10 @@ const data = {
     author: "Chris L",
     saying: "did she pull out her oboe",
   },
+  343: {
+    author: "Will B",
+    saying: "there's a bowl of crunch at the end for sure",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

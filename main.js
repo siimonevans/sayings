@@ -1390,6 +1390,10 @@ const data = {
     author: "Will B",
     saying: "there's a bowl of crunch at the end for sure",
   },
+  344: {
+    author: "Chris L",
+    saying: "house full of sheep",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

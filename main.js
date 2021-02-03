@@ -1394,6 +1394,10 @@ const data = {
     author: "Chris L",
     saying: "house full of sheep",
   },
+  345: {
+    author: "Nick L",
+    saying: "lord of the sprinkles",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1398,6 +1398,10 @@ const data = {
     author: "Nick L",
     saying: "lord of the sprinkles",
   },
+  346: {
+    author: "Nick L",
+    saying: "looking after your pastries",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

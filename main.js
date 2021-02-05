@@ -1402,6 +1402,10 @@ const data = {
     author: "Nick L",
     saying: "looking after your pastries",
   },
+  347: {
+    author: "Simon",
+    saying: "if you clean a vacuum cleaner, you become a vacuum cleaner",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

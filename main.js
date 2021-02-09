@@ -1372,7 +1372,7 @@ const data = {
   339: {
     author: "Nick L",
     saying:
-      "it’s like a two components, but with the same component twice inside'",
+      "it’s like two components, but with the same component twice inside",
   },
   340: {
     author: "Ben D",

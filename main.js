@@ -1410,6 +1410,10 @@ const data = {
     author: "Nick L",
     saying: "deep nosing",
   },
+  349: {
+    author: "Nick L",
+    saying: "is he refactoring his house into react",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

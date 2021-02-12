@@ -1422,6 +1422,11 @@ const data = {
     author: "Jane",
     saying: "I’m very limbic today",
   },
+  352: {
+    author: "Ben D",
+    saying:
+      "don't believe everything you think - believe everything jeff bezos thinks",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

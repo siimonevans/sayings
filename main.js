@@ -1427,6 +1427,10 @@ const data = {
     saying:
       "don't believe everything you think - believe everything jeff bezos thinks",
   },
+  353: {
+    author: "Jenny H",
+    saying: "muscle is where the meat is",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

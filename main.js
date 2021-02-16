@@ -1435,6 +1435,10 @@ const data = {
     author: "Todd",
     saying: "feed their documentation fetish",
   },
+  355: {
+    author: "Ben D",
+    saying: "I admire the shit out of it",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

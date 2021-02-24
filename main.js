@@ -1439,6 +1439,10 @@ const data = {
     author: "Ben D",
     saying: "I admire the shit out of it",
   },
+  356: {
+    author: "Ben D",
+    saying: "Obviously I’m not a mother but I am a twin",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

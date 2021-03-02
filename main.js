@@ -1443,6 +1443,10 @@ const data = {
     author: "Ben D",
     saying: "Obviously I’m not a mother but I am a twin",
   },
+  357: {
+    author: "Will B",
+    saying: "I'm trending",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

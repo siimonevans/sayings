@@ -1447,6 +1447,10 @@ const data = {
     author: "Will B",
     saying: "I'm trending",
   },
+  358: {
+    author: "Will B",
+    saying: "I'll merge anything",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

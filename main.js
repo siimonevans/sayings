@@ -1455,6 +1455,10 @@ const data = {
     author: "Nick L",
     saying: "gimp suit for your roof",
   },
+  360: {
+    author: "Tomasz",
+    saying: "I've had some wine you can tell",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

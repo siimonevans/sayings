@@ -1459,6 +1459,10 @@ const data = {
     author: "Tomasz",
     saying: "I've had some wine you can tell",
   },
+  361: {
+    author: "Nick L",
+    saying: "did you not do it in Russian?",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

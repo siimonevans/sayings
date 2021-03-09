@@ -1463,6 +1463,10 @@ const data = {
     author: "Nick L",
     saying: "did you not do it in Russian?",
   },
+  362: {
+    author: "Will B",
+    saying: "You've got a level 2 poltergeist",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

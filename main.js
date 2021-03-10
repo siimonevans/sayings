@@ -1467,6 +1467,10 @@ const data = {
     author: "Will B",
     saying: "You've got a level 2 poltergeist",
   },
+  363: {
+    author: "Nick L",
+    saying: "printing heroku",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

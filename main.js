@@ -1479,6 +1479,10 @@ const data = {
     author: "Chris L",
     saying: "even the can looks edible",
   },
+  366: {
+    author: "Ben D",
+    saying: "syncopate 'til you herniate",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1483,6 +1483,14 @@ const data = {
     author: "Ben D",
     saying: "syncopate 'til you herniate",
   },
+  367: {
+    author: "Nick L",
+    saying: "I see your toaster matches your bike",
+  },
+  368: {
+    author: "Chris L",
+    saying: "they need to make more things in lichen green",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

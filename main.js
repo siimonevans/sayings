@@ -1495,6 +1495,10 @@ const data = {
     author: "Steve S",
     saying: "Bean there done that",
   },
+  370: {
+    author: "Nick L",
+    saying: "think it depends on your ears",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

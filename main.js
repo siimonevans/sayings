@@ -1499,6 +1499,10 @@ const data = {
     author: "Nick L",
     saying: "think it depends on your ears",
   },
+  371: {
+    author: "Chris L",
+    saying: "what other animals are in dev that i don’t know about",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

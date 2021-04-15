@@ -1503,6 +1503,14 @@ const data = {
     author: "Chris L",
     saying: "what other animals are in dev that i don’t know about",
   },
+  372: {
+    author: "Chris L",
+    saying: "the sprint sloth",
+  },
+  373: {
+    author: "Chris L",
+    saying: "the backlog bear",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

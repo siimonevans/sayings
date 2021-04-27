@@ -1511,6 +1511,10 @@ const data = {
     author: "Chris L",
     saying: "the backlog bear",
   },
+  374: {
+    author: "Steve S",
+    saying: "A portal will open up in my kitchen and I'll get to ascend into nugget utopia",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

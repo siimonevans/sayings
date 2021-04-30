@@ -1513,7 +1513,12 @@ const data = {
   },
   374: {
     author: "Steve S",
-    saying: "A portal will open up in my kitchen and I'll get to ascend into nugget utopia",
+    saying:
+      "A portal will open up in my kitchen and I'll get to ascend into nugget utopia",
+  },
+  375: {
+    author: "Tomasz",
+    saying: "I think software should ask you to opt into the banter.",
   },
 };
 

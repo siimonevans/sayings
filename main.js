@@ -1520,6 +1520,10 @@ const data = {
     author: "Tomasz",
     saying: "I think software should ask you to opt into the banter.",
   },
+  376: {
+    author: "Nick L",
+    saying: "only a grand for an erection",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

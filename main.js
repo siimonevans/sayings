@@ -1524,6 +1524,10 @@ const data = {
     author: "Nick L",
     saying: "only a grand for an erection",
   },
+  377: {
+    author: "Simon",
+    saying: "are you going round squeezing lots of wood",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

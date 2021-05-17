@@ -1528,6 +1528,10 @@ const data = {
     author: "Simon",
     saying: "are you going round squeezing lots of wood",
   },
+  378: {
+    author: "Simon",
+    saying: "can’t get enough lift from the ears",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

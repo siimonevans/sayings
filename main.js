@@ -1532,6 +1532,10 @@ const data = {
     author: "Simon",
     saying: "can’t get enough lift from the ears",
   },
+  379: {
+    author: "Nick L",
+    saying: "handy for catching door ticklers",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

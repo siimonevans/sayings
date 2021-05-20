@@ -1536,6 +1536,10 @@ const data = {
     author: "Nick L",
     saying: "handy for catching door ticklers",
   },
+  380: {
+    author: "Simon",
+    saying: "my ears start wtf’ing",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

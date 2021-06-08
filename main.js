@@ -1544,6 +1544,10 @@ const data = {
     author: "Will B",
     saying: "<code>$(fuck-that).upper()</code>",
   },
+  382: {
+    author: "Nick L",
+    saying: "should have macaroned him in the face",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

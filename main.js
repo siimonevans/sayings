@@ -1548,6 +1548,10 @@ const data = {
     author: "Nick L",
     saying: "should have macaroned him in the face",
   },
+  383: {
+    author: "Steve S",
+    saying: "My gangly fingers don’t work like they used to",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

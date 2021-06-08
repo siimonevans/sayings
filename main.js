@@ -1540,6 +1540,10 @@ const data = {
     author: "Simon",
     saying: "my ears start wtf’ing",
   },
+  381: {
+    author: "Will B",
+    saying: "<code>$(fuck-that).upper()</code>",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

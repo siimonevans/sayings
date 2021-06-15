@@ -1552,6 +1552,10 @@ const data = {
     author: "Steve S",
     saying: "My gangly fingers don’t work like they used to",
   },
+  384: {
+    author: "Chris L",
+    saying: "the robot is acceptable",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

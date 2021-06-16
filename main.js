@@ -1560,6 +1560,10 @@ const data = {
     author: "Simon",
     saying: "like waking up in a hot bag",
   },
+  386: {
+    author: "Nick L",
+    saying: "the humanwillbapeed",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

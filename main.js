@@ -1556,6 +1556,10 @@ const data = {
     author: "Chris L",
     saying: "the robot is acceptable",
   },
+  385: {
+    author: "Simon",
+    saying: "like waking up in a hot bag",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

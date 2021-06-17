@@ -1564,6 +1564,10 @@ const data = {
     author: "Nick L",
     saying: "the humanwillbapeed",
   },
+  387: {
+    author: "Will B",
+    saying: "I got munched",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

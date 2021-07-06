@@ -1570,7 +1570,11 @@ const data = {
   },
   388: {
     author: "Nick L",
-    saying: " just switch the switch behind your right ear",
+    saying: "just switch the switch behind your right ear",
+  },
+  389: {
+    author: "Chris L",
+    saying: "use it as a mini foot-tickling window",
   },
 };
 

@@ -1568,6 +1568,10 @@ const data = {
     author: "Will B",
     saying: "I got munched",
   },
+  388: {
+    author: "Nick L",
+    saying: " just switch the switch behind your right ear",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

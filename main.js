@@ -1576,6 +1576,10 @@ const data = {
     author: "Chris L",
     saying: "use it as a mini foot-tickling window",
   },
+  390: {
+    author: "Will B",
+    saying: "There's nothing he can't do with a pint in his right and his keyboard in his left",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

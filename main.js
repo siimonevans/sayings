@@ -1580,6 +1580,10 @@ const data = {
     author: "Will B",
     saying: "There's nothing he can't do with a pint in his right and his keyboard in his left",
   },
+  391: {
+    author: "Tomasz",
+    saying: "its a bit like olives, takes time to like them",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1588,6 +1588,10 @@ const data = {
     author: "Chris L",
     saying: "crouching tiger hidden cow",
   },
+  393: {
+    author: "Chris L",
+    saying: "you’re basically doing a tour of my life",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

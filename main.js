@@ -1584,6 +1584,10 @@ const data = {
     author: "Tomasz",
     saying: "its a bit like olives, takes time to like them",
   },
+  392: {
+    author: "Chris L",
+    saying: "crouching tiger hidden cow",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

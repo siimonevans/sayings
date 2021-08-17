@@ -1578,7 +1578,8 @@ const data = {
   },
   390: {
     author: "Will B",
-    saying: "There's nothing he can't do with a pint in his right and his keyboard in his left",
+    saying:
+      "There's nothing he can't do with a pint in his right and his keyboard in his left",
   },
   391: {
     author: "Tomasz",
@@ -1591,6 +1592,10 @@ const data = {
   393: {
     author: "Chris L",
     saying: "you’re basically doing a tour of my life",
+  },
+  394: {
+    author: "Tomasz",
+    saying: "I don't understand what you are doing here but if it feels right.",
   },
 };
 

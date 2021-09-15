@@ -1605,6 +1605,10 @@ const data = {
     author: "Chris L",
     saying: "wish my fingers were made from bournville",
   },
+  397: {
+    author: "Chris L",
+    saying: "I charge randomly",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

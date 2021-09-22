@@ -1613,6 +1613,10 @@ const data = {
     author: "Chris L",
     saying: "release the hounds!",
   },
+  399: {
+    author: "Will B",
+    saying: "Resto in pesto",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1617,6 +1617,10 @@ const data = {
     author: "Will B",
     saying: "Resto in pesto",
   },
+  400: {
+    author: "Tomasz",
+    saying: "you cant possibly satisfy me",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

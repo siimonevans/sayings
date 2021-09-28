@@ -1621,6 +1621,10 @@ const data = {
     author: "Tomasz",
     saying: "you cant possibly satisfy me",
   },
+  401: {
+    author: "Nick L",
+    saying: "it makes my right arm twitch when I hit my brain",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

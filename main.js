@@ -1627,7 +1627,7 @@ const data = {
   },
 };
 
-const quoteContainer = document.getElementById("quote");
+const quoteContainer = document.getElementById('quote');
 
 const quotes = Object.keys(data).reduce(
   (quoteArray, key) => [...quoteArray, data[key]],
@@ -1649,13 +1649,18 @@ updateQuote = () => {
 };
 
 // On load
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener('DOMContentLoaded', () => {
   updateQuote();
 });
 
-// On spacebar
-document.addEventListener("keyup", (event) => {
-  if (event.keyCode == 32) {
+// On space bar
+document.addEventListener('keyup', (event) => {
+  if (event.key == ' ') {
     updateQuote();
   }
+});
+
+// On mobile button tap
+document.querySelector('[data-button]').addEventListener('click', () => {
+  updateQuote();
 });

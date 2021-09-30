@@ -1629,6 +1629,10 @@ const data = {
     author: "Will B",
     saying: "I'm a one man party",
   },
+  403: {
+    author: "Chris L",
+    saying: "fast track to the biscuit window",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

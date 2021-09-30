@@ -1625,9 +1625,13 @@ const data = {
     author: "Nick L",
     saying: "it makes my right arm twitch when I hit my brain",
   },
+  402: {
+    author: "Will B",
+    saying: "I'm a one man party",
+  },
 };
 
-const quoteContainer = document.getElementById('quote');
+const quoteContainer = document.getElementById("quote");
 
 const quotes = Object.keys(data).reduce(
   (quoteArray, key) => [...quoteArray, data[key]],
@@ -1649,18 +1653,18 @@ updateQuote = () => {
 };
 
 // On load
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener("DOMContentLoaded", () => {
   updateQuote();
 });
 
 // On space bar
-document.addEventListener('keyup', (event) => {
-  if (event.key == ' ') {
+document.addEventListener("keyup", (event) => {
+  if (event.key == " ") {
     updateQuote();
   }
 });
 
 // On mobile button tap
-document.querySelector('[data-button]').addEventListener('click', () => {
+document.querySelector("[data-button]").addEventListener("click", () => {
   updateQuote();
 });

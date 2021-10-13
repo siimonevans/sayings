@@ -1633,6 +1633,10 @@ const data = {
     author: "Chris L",
     saying: "fast track to the biscuit window",
   },
+  404: {
+    author: "Tomasz",
+    saying: "dont sarcasm me at this time",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

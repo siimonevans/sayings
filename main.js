@@ -1645,6 +1645,11 @@ const data = {
     author: "Steve S",
     saying: "it was like walking on chicken soup bouillon",
   },
+  407: {
+    author: "Steve S",
+    saying:
+      "It's like you’re trying to build a house in the forest and there's a chainsaw in the next shed over that you could use if you want",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

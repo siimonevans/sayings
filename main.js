@@ -1650,6 +1650,10 @@ const data = {
     saying:
       "It's like you’re trying to build a house in the forest and there's a chainsaw in the next shed over that you could use if you want",
   },
+  408: {
+    author: "Will B",
+    saying: "I will be craving death after it",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

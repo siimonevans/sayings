@@ -1654,6 +1654,10 @@ const data = {
     author: "Will B",
     saying: "I will be craving death after it",
   },
+  409: {
+    author: "Chris L",
+    saying: "this fork seems alright",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

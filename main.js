@@ -1666,6 +1666,10 @@ const data = {
     author: "Nick L",
     saying: "just smear it all over your body and see what parts get numb",
   },
+  412: {
+    author: "Nick L",
+    saying: "the condescending operator does it for you",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

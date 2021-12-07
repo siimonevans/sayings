@@ -1670,6 +1670,10 @@ const data = {
     author: "Nick L",
     saying: "the condescending operator does it for you",
   },
+  413: {
+    author: "Nick L",
+    saying: "are you going to be my Todd",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

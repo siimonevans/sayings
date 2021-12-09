@@ -1674,6 +1674,10 @@ const data = {
     author: "Nick L",
     saying: "are you going to be my Todd",
   },
+  414: {
+    author: "Paul B",
+    saying: "I'd love to do a roast potato tasting menu",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

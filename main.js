@@ -1679,7 +1679,7 @@ const data = {
     saying: "I'd love to do a roast potato tasting menu",
   },
   415: {
-    author: "Paul B",
+    author: "Tomasz",
     saying: "I've been doing a lot of self-inflicted DRF",
   },
 };

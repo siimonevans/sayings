@@ -1682,6 +1682,10 @@ const data = {
     author: "Tomasz",
     saying: "I've been doing a lot of self-inflicted DRF",
   },
+  416: {
+    author: "Nick L",
+    saying: "didn’t get a chance to leech him",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1686,6 +1686,10 @@ const data = {
     author: "Nick L",
     saying: "didn’t get a chance to leech him",
   },
+  417: {
+    author: "Will B",
+    saying: "I am the long purple brick in this game of Tetris",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

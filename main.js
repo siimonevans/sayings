@@ -1690,6 +1690,10 @@ const data = {
     author: "Will B",
     saying: "I am the long purple brick in this game of Tetris",
   },
+  418: {
+    author: "Will B",
+    saying: "Wanna hang out the back of my rocket",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

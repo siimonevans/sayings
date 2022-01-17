@@ -1694,6 +1694,11 @@ const data = {
     author: "Will B",
     saying: "Wanna hang out the back of my rocket",
   },
+  419: {
+    author: "Ben D",
+    saying:
+      "I think in his hands a spade with some dental floss on it would rip",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

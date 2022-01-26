@@ -1699,6 +1699,10 @@ const data = {
     saying:
       "I think in his hands a spade with some dental floss on it would rip",
   },
+  420: {
+    author: "Will B",
+    saying: "I want more beans",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

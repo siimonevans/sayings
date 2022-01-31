@@ -1703,6 +1703,10 @@ const data = {
     author: "Will B",
     saying: "I want more beans",
   },
+  421: {
+    author: "Nick L",
+    saying: "alexa hide me from the foxes",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

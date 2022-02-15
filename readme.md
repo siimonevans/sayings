@@ -1,1 +1,1 @@
-https://simondevans.github.io/sayings
+https://siimonevans.github.io/sayings

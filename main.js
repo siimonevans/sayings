@@ -1707,6 +1707,10 @@ const data = {
     author: "Nick L",
     saying: "alexa hide me from the foxes",
   },
+  422: {
+    author: "Chris L",
+    saying: "I’ll go bonkers on conkers",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

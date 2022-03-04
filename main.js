@@ -1719,6 +1719,10 @@ const data = {
     author: "Chris L",
     saying: "why is it this complex labyrinth of tick boxes and magical lingo",
   },
+  425: {
+    author: "Mitch",
+    saying: "Wizards are difficult",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1715,6 +1715,10 @@ const data = {
     author: "Chris L",
     saying: "is it a festival, a coffee or a cheese?",
   },
+  424: {
+    author: "Chris L",
+    saying: "why is it this complex labyrinth of tick boxes and magical lingo",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

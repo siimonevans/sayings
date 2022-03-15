@@ -1723,6 +1723,10 @@ const data = {
     author: "Mitch",
     saying: "Wizards are difficult",
   },
+  426: {
+    author: "Nick L",
+    saying: "woodpecker on the nutst",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

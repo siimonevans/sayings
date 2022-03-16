@@ -1727,6 +1727,10 @@ const data = {
     author: "Nick L",
     saying: "woodpecker on the nutst",
   },
+  427: {
+    author: "Nick L",
+    saying: "the hunchback of bude",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

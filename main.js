@@ -1725,7 +1725,7 @@ const data = {
   },
   426: {
     author: "Nick L",
-    saying: "woodpecker on the nutst",
+    saying: "woodpecker on the nuts",
   },
   427: {
     author: "Nick L",

@@ -1731,6 +1731,10 @@ const data = {
     author: "Nick L",
     saying: "the hunchback of bude",
   },
+  428: {
+    author: "Simon E",
+    saying: "what is a hot deaker",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

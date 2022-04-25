@@ -1739,6 +1739,10 @@ const data = {
     author: "Steve S",
     saying: "nothing useful from me",
   },
+  430: {
+    author: "Simon",
+    saying: "ostrich is best",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

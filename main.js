@@ -1743,6 +1743,10 @@ const data = {
     author: "Simon",
     saying: "ostrich is best",
   },
+  431: {
+    author: "Olly",
+    saying: "karma jackpot",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

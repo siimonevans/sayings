@@ -1763,6 +1763,11 @@ const data = {
     author: "Chris L",
     saying: "Its sweated on itself",
   },
+  436: {
+    author: "Nick L",
+    saying:
+      "takes a lot of skill to poke two things in at once, one in the top and one of the bottom ones simultaneously",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

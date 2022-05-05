@@ -1755,6 +1755,10 @@ const data = {
     author: "Josh",
     saying: "I always appreciate succulent lattice feedback",
   },
+  434: {
+    author: "Nick L",
+    saying: "hairy mic",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

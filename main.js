@@ -1772,6 +1772,10 @@ const data = {
     author: "Chris L",
     saying: "he could buy a cow",
   },
+  438: {
+    author: "Chris L",
+    saying: "simon's developer nightmares",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

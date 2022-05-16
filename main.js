@@ -1776,6 +1776,10 @@ const data = {
     author: "Chris L",
     saying: "simon's developer nightmares",
   },
+  439: {
+    author: "Alex B",
+    saying: "might just comment out the whole repo and go on sabbatical",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

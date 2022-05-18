@@ -1780,6 +1780,10 @@ const data = {
     author: "Alex B",
     saying: "might just comment out the whole repo and go on sabbatical",
   },
+  440: {
+    author: "Nick L",
+    saying: "warm front cold back",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

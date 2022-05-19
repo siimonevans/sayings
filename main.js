@@ -1784,6 +1784,10 @@ const data = {
     author: "Nick L",
     saying: "warm front cold back",
   },
+  441: {
+    author: "Mel",
+    saying: "don't yeet ur cat",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");
@@ -1823,3 +1827,5 @@ document.addEventListener("keyup", (event) => {
 document.querySelector("[data-button]").addEventListener("click", () => {
   updateQuote();
 });
+
+

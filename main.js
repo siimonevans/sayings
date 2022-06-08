@@ -1788,6 +1788,10 @@ const data = {
     author: "Mel",
     saying: "don't yeet ur cat",
   },
+  442: {
+    author: "Chris L",
+    saying: "end up in kebab-u-like at 3am",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");
@@ -1827,5 +1831,3 @@ document.addEventListener("keyup", (event) => {
 document.querySelector("[data-button]").addEventListener("click", () => {
   updateQuote();
 });
-
-

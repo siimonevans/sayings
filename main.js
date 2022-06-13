@@ -1796,6 +1796,10 @@ const data = {
     author: "Ben D",
     saying: "very 'fingery'",
   },
+  444: {
+    author: "Chris L",
+    saying: "fastest finger first",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

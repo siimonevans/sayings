@@ -1800,6 +1800,10 @@ const data = {
     author: "Chris L",
     saying: "fastest finger first",
   },
+  445: {
+    author: "Chris L",
+    saying: "would be a big bird on a 5xl",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

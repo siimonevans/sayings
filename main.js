@@ -1804,6 +1804,10 @@ const data = {
     author: "Chris L",
     saying: "would be a big bird on a 5xl",
   },
+  446: {
+    author: "Nick L",
+    saying: 'what"s with the fingering',
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

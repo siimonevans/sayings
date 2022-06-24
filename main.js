@@ -1808,6 +1808,10 @@ const data = {
     author: "Nick L",
     saying: 'what"s with the fingering',
   },
+  447: {
+    author: "Ellie",
+    saying: "it gives my canoncial data preferences the absolute ick",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

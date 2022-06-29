@@ -1824,6 +1824,10 @@ const data = {
     author: "Ben D",
     saying: "I don't really care how the sausage is made",
   },
+  451: {
+    author: "Nick L",
+    saying: "head of furry boom",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

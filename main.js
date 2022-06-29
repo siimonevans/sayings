@@ -1820,6 +1820,10 @@ const data = {
     author: "Ben D",
     saying: "caffeinate then commiserate",
   },
+  450: {
+    author: "Ben D",
+    saying: "I don't really care how the sausage is made",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

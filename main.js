@@ -1828,6 +1828,10 @@ const data = {
     author: "Nick L",
     saying: "head of furry boom",
   },
+  452: {
+    author: "Chris L",
+    saying: "mow the roof",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1832,6 +1832,10 @@ const data = {
     author: "Chris L",
     saying: "mow the roof",
   },
+  453: {
+    author: "Simon",
+    saying: "my trackpad is moist",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

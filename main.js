@@ -1836,6 +1836,11 @@ const data = {
     author: "Simon",
     saying: "my trackpad is moist",
   },
+  454: {
+    author: "Steve S",
+    saying:
+      "I'd have the michael buble playing so loud that you'll never sleep again",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

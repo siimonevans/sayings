@@ -1845,6 +1845,10 @@ const data = {
     author: "Chris L",
     saying: "you’ll find nemo in seconds",
   },
+  456: {
+    author: "Thibaud",
+    saying: "It’s crazy how much more you can do in the summer with effective cooling",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

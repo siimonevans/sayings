@@ -1847,7 +1847,12 @@ const data = {
   },
   456: {
     author: "Thibaud",
-    saying: "It’s crazy how much more you can do in the summer with effective cooling",
+    saying:
+      "It’s crazy how much more you can do in the summer with effective cooling",
+  },
+  457: {
+    author: "Ben D",
+    saying: "I love that pre-rain smell",
   },
 };
 

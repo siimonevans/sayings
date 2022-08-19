@@ -1854,6 +1854,10 @@ const data = {
     author: "Ben D",
     saying: "I love that pre-rain smell",
   },
+  458: {
+    author: "Simon",
+    saying: "nothing like a bit of scouse lamination",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

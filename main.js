@@ -1858,6 +1858,10 @@ const data = {
     author: "Simon",
     saying: "nothing like a bit of scouse lamination",
   },
+  459: {
+    author: "Simon",
+    saying: "who needs the lotto when you can just steal shit",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

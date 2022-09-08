@@ -1862,6 +1862,14 @@ const data = {
     author: "Simon",
     saying: "who needs the lotto when you can just steal shit",
   },
+  460: {
+    author: "James H",
+    saying: "I could be a whisk, because I like to mix things up",
+  },
+  461: {
+    author: "James H",
+    saying: "You’ve got a lot of range with kitchen utensils",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

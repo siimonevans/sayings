@@ -1870,6 +1870,10 @@ const data = {
     author: "James H",
     saying: "You’ve got a lot of range with kitchen utensils",
   },
+  462: {
+    author: "Nick L",
+    saying: "get in his tiger moth and machine gun the fuck out of you",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

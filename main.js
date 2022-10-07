@@ -1874,6 +1874,10 @@ const data = {
     author: "Nick L",
     saying: "get in his tiger moth and machine gun the fuck out of you",
   },
+  463: {
+    author: "Will B",
+    saying: "I will always disco",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

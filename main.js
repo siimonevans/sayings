@@ -1882,6 +1882,10 @@ const data = {
     author: "Will B",
     saying: "you can put a beer in your kanga pouch and wiggle",
   },
+  465: {
+    author: "Kevin",
+    saying: "up to my nuts in spice",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

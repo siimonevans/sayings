@@ -1886,6 +1886,10 @@ const data = {
     author: "Kevin",
     saying: "up to my nuts in spice",
   },
+  466: {
+    author: "Chris L",
+    saying: "do you ever pre-heat your office?",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

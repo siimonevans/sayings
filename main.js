@@ -1890,6 +1890,10 @@ const data = {
     author: "Chris L",
     saying: "do you ever pre-heat your office?",
   },
+  467: {
+    author: "Chris L",
+    saying: "where’s the turkey?",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

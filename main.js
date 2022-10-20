@@ -1902,6 +1902,10 @@ const data = {
     author: "Steve S",
     saying: "they call me the tong king",
   },
+  470: {
+    author: "Chris L",
+    saying: "have a bath with the loch ness monster",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

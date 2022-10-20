@@ -1906,6 +1906,10 @@ const data = {
     author: "Chris L",
     saying: "have a bath with the loch ness monster",
   },
+  471: {
+    author: "Thibaud",
+    saying: "it took me a few years but I know what G&T means now",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

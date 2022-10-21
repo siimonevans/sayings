@@ -1912,7 +1912,7 @@ const data = {
   },
   472: {
     author: "Dan B",
-    saying: "I don’t have the capacity to be curious",
+    saying: "I don’t have the capacity to be curious right now",
   },
 };
 

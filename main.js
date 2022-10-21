@@ -1910,6 +1910,10 @@ const data = {
     author: "Thibaud",
     saying: "it took me a few years but I know what G&T means now",
   },
+  472: {
+    author: "Dan B",
+    saying: "I don’t have the capacity to be curious",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

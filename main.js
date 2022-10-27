@@ -1914,6 +1914,10 @@ const data = {
     author: "Dan B",
     saying: "I don’t have the capacity to be curious right now",
   },
+  473: {
+    author: "Chris L",
+    saying: "I breathe triple A mate",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

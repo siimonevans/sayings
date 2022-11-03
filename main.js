@@ -1918,6 +1918,11 @@ const data = {
     author: "Chris L",
     saying: "I breathe triple A mate",
   },
+  474: {
+    author: "Helen C",
+    saying:
+      "It’s not warm and furry and farting it can’t recreate the real experience…",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

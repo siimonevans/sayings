@@ -1923,6 +1923,10 @@ const data = {
     saying:
       "If it’s not warm and furry and farting it can’t recreate the real experience…",
   },
+  475: {
+    author: "Chris L",
+    saying: "I’m yet to tickle its tummy",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

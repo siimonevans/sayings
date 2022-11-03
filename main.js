@@ -1921,7 +1921,7 @@ const data = {
   474: {
     author: "Helen C",
     saying:
-      "It’s not warm and furry and farting it can’t recreate the real experience…",
+      "If it’s not warm and furry and farting it can’t recreate the real experience…",
   },
 };
 

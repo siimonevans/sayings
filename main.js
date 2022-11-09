@@ -1931,6 +1931,10 @@ const data = {
     author: "Nick L",
     saying: "are they canine crypto investors",
   },
+  477: {
+    author: "Chris L",
+    saying: "mine a million then go for a margherita",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

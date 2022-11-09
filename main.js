@@ -1927,6 +1927,10 @@ const data = {
     author: "Chris L",
     saying: "I’m yet to tickle its tummy",
   },
+  476: {
+    author: "Nick L",
+    saying: "are they canine crypto investors",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

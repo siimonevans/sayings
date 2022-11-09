@@ -1935,6 +1935,10 @@ const data = {
     author: "Chris L",
     saying: "mine a million then go for a margherita",
   },
+  478: {
+    author: "Will B",
+    saying: "I want Jacob's Owl",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

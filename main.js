@@ -1939,6 +1939,14 @@ const data = {
     author: "Will B",
     saying: "I want Jacob's Owl",
   },
+  479: {
+    author: "Will B",
+    saying: "I need high ceilings and street wine",
+  },
+  480: {
+    author: "Tomasz",
+    saying: "Jesus Christ on a bendy bus!",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1951,6 +1951,10 @@ const data = {
     author: "Nick L",
     saying: "Torchbox need to start paying for ear massages",
   },
+  482: {
+    author: "Chris L",
+    saying: "I just want to write code and eat pringles",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

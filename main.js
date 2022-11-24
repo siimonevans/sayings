@@ -1947,6 +1947,10 @@ const data = {
     author: "Tomasz",
     saying: "Jesus Christ on a bendy bus!",
   },
+  481: {
+    author: "Nick L",
+    saying: "Torchbox need to start paying for ear massages",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

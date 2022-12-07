@@ -1955,6 +1955,10 @@ const data = {
     author: "Chris L",
     saying: "I just want to write code and eat pringles",
   },
+  483: {
+    author: "Steve S",
+    saying: "We are trying to collect 2 of every animal for this project",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

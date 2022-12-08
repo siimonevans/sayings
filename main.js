@@ -1959,6 +1959,10 @@ const data = {
     author: "Steve S",
     saying: "We are trying to collect 2 of every animal for this project",
   },
+  484: {
+    author: "Dan B",
+    saying: "we had a funky Heisenbug on Upshot",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1963,6 +1963,10 @@ const data = {
     author: "Dan B",
     saying: "we had a funky Heisenbug on Upshot",
   },
+  485: {
+    author: "Dan B",
+    saying: "Patsy != Lucy",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1967,6 +1967,10 @@ const data = {
     author: "Dan B",
     saying: "Patsy != Lucy",
   },
+  486: {
+    author: "Kev",
+    saying: "It was like walking through a headache",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

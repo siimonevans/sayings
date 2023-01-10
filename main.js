@@ -1971,6 +1971,10 @@ const data = {
     author: "Kev",
     saying: "It was like walking through a headache",
   },
+  487: {
+    author: "Nick L",
+    saying: "the goat is especially bad",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

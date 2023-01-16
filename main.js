@@ -1975,6 +1975,10 @@ const data = {
     author: "Nick L",
     saying: "the goat is especially bad",
   },
+  488: {
+    author: "Chris L",
+    saying: "now there’s fingers in all sorts of pies",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

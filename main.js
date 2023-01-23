@@ -1979,6 +1979,10 @@ const data = {
     author: "Chris L",
     saying: "now there’s fingers in all sorts of pies",
   },
+  489: {
+    author: "Chris L",
+    saying: "as Celine Dion once said it’s all coming back to me",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

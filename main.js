@@ -1983,6 +1983,10 @@ const data = {
     author: "Chris L",
     saying: "as Celine Dion once said it’s all coming back to me",
   },
+  490: {
+    author: "Ellie",
+    saying: "I'm a hand talker",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

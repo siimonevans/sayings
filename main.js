@@ -1995,6 +1995,10 @@ const data = {
     author: "Tomasz",
     saying: "Can't get more meaty meat than that",
   },
+  493: {
+    author: "Simon",
+    saying: "air fryer shrine",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1999,6 +1999,10 @@ const data = {
     author: "Simon",
     saying: "air fryer shrine",
   },
+  494: {
+    author: "Dan B",
+    saying: "there's beauty in both",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

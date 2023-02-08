@@ -2003,6 +2003,10 @@ const data = {
     author: "Dan B",
     saying: "there's beauty in both",
   },
+  495: {
+    author: "Chris L",
+    saying: "get tanned like a barcode",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

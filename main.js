@@ -2008,7 +2008,7 @@ const data = {
     saying: "get tanned like a barcode",
   },
   496: {
-    author: "Chris L",
+    author: "Tomasz",
     saying: "Acknowleding that we're not shit might be a good idea",
   },
 };

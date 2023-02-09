@@ -2007,6 +2007,10 @@ const data = {
     author: "Chris L",
     saying: "get tanned like a barcode",
   },
+  496: {
+    author: "Chris L",
+    saying: "Acknowleding that we're not shit might be a good idea",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

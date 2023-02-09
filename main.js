@@ -2011,6 +2011,10 @@ const data = {
     author: "Tomasz",
     saying: "Acknowleding that we're not shit might be a good idea",
   },
+  496: {
+    author: "Simon",
+    saying: "I’d need to see the curlies",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

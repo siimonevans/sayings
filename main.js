@@ -2015,6 +2015,10 @@ const data = {
     author: "Simon",
     saying: "I’d need to see the curlies",
   },
+  498: {
+    author: "Will B",
+    saying: "I just want to lift maxes and avoid taxes",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

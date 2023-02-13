@@ -2019,6 +2019,10 @@ const data = {
     author: "Will B",
     saying: "I just want to lift maxes and avoid taxes",
   },
+  499: {
+    author: "Ben E",
+    saying: "There should always be a little sun",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

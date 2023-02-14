@@ -2027,6 +2027,10 @@ const data = {
     author: "Simon",
     saying: "I call it the house of pain",
   },
+  501: {
+    author: "Simon",
+    saying: "smashing back the jam",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

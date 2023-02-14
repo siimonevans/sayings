@@ -2023,6 +2023,10 @@ const data = {
     author: "Ben E",
     saying: "There should always be a little sun",
   },
+  500: {
+    author: "Simon",
+    saying: "I call it the house of pain",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

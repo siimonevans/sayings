@@ -2009,7 +2009,7 @@ const data = {
   },
   496: {
     author: "Tomasz",
-    saying: "Acknowleding that we're not shit might be a good idea",
+    saying: "Acknowledging that we're not shit might be a good idea",
   },
   497: {
     author: "Simon",
@@ -2030,6 +2030,14 @@ const data = {
   501: {
     author: "Simon",
     saying: "smashing back the jam",
+  },
+  502: {
+    author: "Chris L",
+    saying: "need a sober comparison",
+  },
+  503: {
+    author: "Chris L",
+    saying: "deliciouszone",
   },
 };
 

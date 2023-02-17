@@ -2039,6 +2039,10 @@ const data = {
     author: "Chris L",
     saying: "deliciouszone",
   },
+  504: {
+    author: "Chris L",
+    saying: "napping in the starter",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

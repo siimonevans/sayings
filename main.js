@@ -2047,6 +2047,10 @@ const data = {
     author: "Tomasz",
     saying: "I love controversy. I love everyone.",
   },
+  506: {
+    author: "Steve S",
+    saying: "I've never understood vests",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

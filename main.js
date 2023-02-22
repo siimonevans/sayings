@@ -2043,6 +2043,10 @@ const data = {
     author: "Chris L",
     saying: "napping in the starter",
   },
+  505: {
+    author: "Tomasz",
+    saying: "I love controversy. I love everyone.",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2051,6 +2051,10 @@ const data = {
     author: "Steve S",
     saying: "I've never understood vests",
   },
+  507: {
+    author: "Ben D",
+    saying: "he really is the zach braff of prog",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

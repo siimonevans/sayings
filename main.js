@@ -2055,6 +2055,10 @@ const data = {
     author: "Ben D",
     saying: "he really is the zach braff of prog",
   },
+  508: {
+    author: "Simon",
+    saying: "how can you eat katsu sauce without cutlery",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

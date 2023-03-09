@@ -2063,6 +2063,10 @@ const data = {
     author: "Anna P",
     saying: "we've got bigger potatoes",
   },
+  510: {
+    author: "Nick L",
+    saying: "Stone Cold Steve in Austin",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

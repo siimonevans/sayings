@@ -2059,6 +2059,10 @@ const data = {
     author: "Simon",
     saying: "how can you eat katsu sauce without cutlery",
   },
+  509: {
+    author: "Anna P",
+    saying: "we've got bigger potatoes",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

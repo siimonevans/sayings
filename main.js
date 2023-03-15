@@ -2067,6 +2067,10 @@ const data = {
     author: "Nick L",
     saying: "Stone Cold Steve in Austin",
   },
+  511: {
+    author: "Ben D",
+    saying: "I would love to see a dog headbanging in 13/8",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

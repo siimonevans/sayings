@@ -2071,6 +2071,10 @@ const data = {
     author: "Ben D",
     saying: "I would love to see a dog headbanging in 13/8",
   },
+  512: {
+    author: "Simon",
+    saying: "all beer no pram",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

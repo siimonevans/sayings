@@ -2075,6 +2075,10 @@ const data = {
     author: "Simon",
     saying: "all beer no pram",
   },
+  513: {
+    author: "Chris L",
+    saying: "sausage infused shorts",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

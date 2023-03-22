@@ -2079,6 +2079,10 @@ const data = {
     author: "Chris L",
     saying: "sausage infused shorts",
   },
+  514: {
+    author: "Will B",
+    saying: "You can be my Brótogé",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

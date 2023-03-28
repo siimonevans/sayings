@@ -2087,6 +2087,10 @@ const data = {
     author: "Chris L",
     saying: "free shower tickles",
   },
+  516: {
+    author: "Nick L",
+    saying: "2 soft closing, then 1 shocker",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

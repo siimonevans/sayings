@@ -2083,6 +2083,10 @@ const data = {
     author: "Will B",
     saying: "You can be my Brótogé",
   },
+  515: {
+    author: "Chris L",
+    saying: "free shower tickles",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2091,6 +2091,10 @@ const data = {
     author: "Nick L",
     saying: "2 soft closing, then 1 shocker",
   },
+  517: {
+    author: "Nick L",
+    saying: "my elephant game is awesome",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

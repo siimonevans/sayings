@@ -2099,6 +2099,10 @@ const data = {
     author: "Chris L",
     saying: "prepare for lamination",
   },
+  519: {
+    author: "Simon",
+    saying: "npm install thibaud",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2095,6 +2095,10 @@ const data = {
     author: "Nick L",
     saying: "my elephant game is awesome",
   },
+  518: {
+    author: "Chris L",
+    saying: "prepare for lamination",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

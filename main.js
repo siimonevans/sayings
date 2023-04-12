@@ -2103,6 +2103,10 @@ const data = {
     author: "Simon",
     saying: "npm install thibaud",
   },
+  520: {
+    author: "Chris L",
+    saying: "death by dentures",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2107,6 +2107,10 @@ const data = {
     author: "Chris L",
     saying: "death by dentures",
   },
+  521: {
+    author: "Simon",
+    saying: "all disco no design",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

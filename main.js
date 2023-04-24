@@ -2111,6 +2111,10 @@ const data = {
     author: "Simon",
     saying: "all disco no design",
   },
+  522: {
+    author: "Chris L",
+    saying: "ear hoovers",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

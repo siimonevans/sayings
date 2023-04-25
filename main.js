@@ -2115,6 +2115,10 @@ const data = {
     author: "Chris L",
     saying: "ear hoovers",
   },
+  523: {
+    author: "Jo F",
+    saying: "Shout if you need extra poking",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2119,6 +2119,10 @@ const data = {
     author: "Jo F",
     saying: "Shout if you need extra poking",
   },
+  524: {
+    author: "Simon",
+    saying: "imagine a 5k deer",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

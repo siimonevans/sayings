@@ -2123,6 +2123,10 @@ const data = {
     author: "Simon",
     saying: "imagine a 5k deer",
   },
+  525: {
+    author: "Chris L",
+    saying: "WA5TAIL",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

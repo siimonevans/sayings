@@ -2127,6 +2127,10 @@ const data = {
     author: "Chris L",
     saying: "WA5TAIL",
   },
+  526: {
+    author: "Helen W",
+    saying: "We should all be branded with the flame",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

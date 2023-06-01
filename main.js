@@ -2131,6 +2131,10 @@ const data = {
     author: "Helen W",
     saying: "We should all be branded with the flame",
   },
+  527: {
+    author: "Tomasz",
+    saying: "this is some another level of softboi poetry going on here",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

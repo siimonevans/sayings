@@ -2135,6 +2135,10 @@ const data = {
     author: "Tomasz",
     saying: "this is some another level of softboi poetry going on here",
   },
+  528: {
+    author: "Steve S",
+    saying: "you were in my dream last night",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2139,6 +2139,10 @@ const data = {
     author: "Steve S",
     saying: "you were in my dream last night",
   },
+  529: {
+    author: "Alex B",
+    saying: "centralising the forks",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2143,6 +2143,10 @@ const data = {
     author: "Alex B",
     saying: "centralising the forks",
   },
+  530: {
+    author: "Steve S",
+    saying: "I could taco bout tacos all day",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

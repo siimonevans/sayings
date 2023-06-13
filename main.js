@@ -2147,6 +2147,10 @@ const data = {
     author: "Steve S",
     saying: "I could taco bout tacos all day",
   },
+  531: {
+    author: "Simon",
+    saying: "I need to try wood",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

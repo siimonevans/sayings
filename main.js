@@ -2151,6 +2151,10 @@ const data = {
     author: "Simon",
     saying: "I need to try wood",
   },
+  532: {
+    author: "Joe H",
+    saying: "These are from my big cave of collected goodness",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

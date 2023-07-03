@@ -2159,6 +2159,14 @@ const data = {
     author: "pv",
     saying: "All mouth and no trousers",
   },
+  534: {
+    author: "pv",
+    saying: "well shit in a bag and punch it",
+  },
+  535: {
+    author: "pv",
+    saying: "if your aunty had balls she'd be your uncle",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

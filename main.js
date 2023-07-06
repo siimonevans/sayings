@@ -2167,6 +2167,10 @@ const data = {
     author: "pv",
     saying: "if your aunty had balls she'd be your uncle",
   },
+  536: {
+    author: "Will B",
+    saying: "It’s the same thing as anything",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

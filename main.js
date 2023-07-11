@@ -2171,6 +2171,10 @@ const data = {
     author: "Will B",
     saying: "It’s the same thing as anything",
   },
+  537: {
+    author: "Joe H",
+    saying: "Laziness is the favourite of all my defaults",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -1744,7 +1744,7 @@ const data = {
     saying: "ostrich is best",
   },
   431: {
-    author: "Olly",
+    author: "Olly W",
     saying: "karma jackpot",
   },
   432: {
@@ -2178,6 +2178,10 @@ const data = {
   538: {
     author: "Chris L",
     saying: "another day another div",
+  },
+  539: {
+    author: "Simon",
+    saying: "accessibility overlord jane™",
   },
 };
 

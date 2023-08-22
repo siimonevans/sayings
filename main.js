@@ -2183,6 +2183,10 @@ const data = {
     author: "Simon",
     saying: "accessibility overlord jane™",
   },
+  540: {
+    author: "Will B",
+    saying: "Soy Beta dev",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

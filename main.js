@@ -2191,6 +2191,10 @@ const data = {
     author: "Tomasz",
     saying: "Japanese-dead-people-at-home kind of shrine",
   },
+  542: {
+    author: "Nick L",
+    saying: "scrub me baby",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

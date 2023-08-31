@@ -2199,6 +2199,10 @@ const data = {
     author: "Chris L",
     saying: "dance floor full of molars",
   },
+  544: {
+    author: "Will B",
+    saying: "my demons are funny",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

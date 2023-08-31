@@ -2203,6 +2203,11 @@ const data = {
     author: "Will B",
     saying: "my demons are funny",
   },
+  545: {
+    author: "Tom U",
+    saying:
+      "From now on I am only changing DNS records if I can get 11 people to watch me.",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

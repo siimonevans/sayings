@@ -2212,6 +2212,10 @@ const data = {
     author: "Ben D",
     saying: "I feel the fusion lust rising within me",
   },
+  547: {
+    author: "Chris L",
+    saying: "it’ll be bats in a tropical rainforest tonight",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

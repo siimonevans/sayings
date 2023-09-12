@@ -2220,6 +2220,10 @@ const data = {
     author: "Helen W",
     saying: "My bored is bored",
   },
+  549: {
+    author: "Nick S",
+    saying: "You're a simple man, Simon",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

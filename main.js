@@ -2216,6 +2216,10 @@ const data = {
     author: "Chris L",
     saying: "it’ll be bats in a tropical rainforest tonight",
   },
+  548: {
+    author: "Helen W",
+    saying: "My bored is bored",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

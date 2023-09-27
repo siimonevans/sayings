@@ -2224,6 +2224,10 @@ const data = {
     author: "Nick S",
     saying: "You're a simple man, Simon",
   },
+  550: {
+    author: "Cassidy",
+    saying: "have to love a man that loves pineapples",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

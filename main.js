@@ -2228,6 +2228,10 @@ const data = {
     author: "Cassidy",
     saying: "have to love a man that loves pineapples",
   },
+  551: {
+    author: "Simon",
+    saying: "there’s just no going back from cat piss",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

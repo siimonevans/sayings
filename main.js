@@ -2232,6 +2232,10 @@ const data = {
     author: "Simon",
     saying: "there’s just no going back from cat piss",
   },
+  552: {
+    author: "Dan B",
+    saying: "I graduate every day",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

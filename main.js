@@ -2236,6 +2236,10 @@ const data = {
     author: "Dan B",
     saying: "I graduate every day",
   },
+  553: {
+    author: "Chris L",
+    saying: "who leaks out of their nose when they’re sleepy",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

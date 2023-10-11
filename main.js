@@ -2240,6 +2240,10 @@ const data = {
     author: "Chris L",
     saying: "who leaks out of their nose when they’re sleepy",
   },
+  554: {
+    author: "Dan B",
+    saying: "I know enough to be dangerous",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

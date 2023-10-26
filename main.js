@@ -2244,6 +2244,10 @@ const data = {
     author: "Dan B",
     saying: "I know enough to be dangerous",
   },
+  555: {
+    author: "Chris S",
+    saying: "chmod 007",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

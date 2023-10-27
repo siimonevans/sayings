@@ -2256,6 +2256,10 @@ const data = {
     author: "Simon",
     saying: "base64 encoded the fuck out of everything",
   },
+  558: {
+    author: "Joe H",
+    saying: "Dip me in your Monday milk",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

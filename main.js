@@ -2260,6 +2260,10 @@ const data = {
     author: "Joe H",
     saying: "Dip me in your Monday milk",
   },
+  559: {
+    author: "Andrew WS",
+    saying: "Fear is a great motivator",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

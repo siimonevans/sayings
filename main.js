@@ -2264,6 +2264,10 @@ const data = {
     author: "Andrew WS",
     saying: "Fear is a great motivator",
   },
+  560: {
+    author: "Kev",
+    saying: "It's like an un-sponsored roundabout",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

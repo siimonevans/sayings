@@ -2268,6 +2268,10 @@ const data = {
     author: "Kev",
     saying: "It's like an un-sponsored roundabout",
   },
+  561: {
+    author: "Tom U",
+    saying: "maybe I just sound too much like an air conditioner",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2272,6 +2272,10 @@ const data = {
     author: "Tom U",
     saying: "maybe I just sound too much like an air conditioner",
   },
+  562: {
+    author: "Will B",
+    saying: "It’s Britney bitch",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

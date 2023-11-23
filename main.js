@@ -2276,6 +2276,10 @@ const data = {
     author: "Will B",
     saying: "It’s Britney bitch",
   },
+  563: {
+    author: "pv",
+    saying: "Mainlining the nuts",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

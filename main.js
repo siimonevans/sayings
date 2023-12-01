@@ -2280,6 +2280,10 @@ const data = {
     author: "pv",
     saying: "Mainlining the nuts",
   },
+  564: {
+    author: "Nick L",
+    saying: "free kipper with every estimate",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

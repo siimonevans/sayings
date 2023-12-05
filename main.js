@@ -2284,6 +2284,10 @@ const data = {
     author: "Nick L",
     saying: "free kipper with every estimate",
   },
+  565: {
+    author: "Ben D",
+    saying: "I think it's just normal dread",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

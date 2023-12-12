@@ -2288,6 +2288,10 @@ const data = {
     author: "Ben D",
     saying: "I think it's just normal dread",
   },
+  566: {
+    author: "Ben D",
+    saying: "webpack is awesome, but webpack is fucking heinous",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

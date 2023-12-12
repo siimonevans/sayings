@@ -2292,6 +2292,10 @@ const data = {
     author: "Ben D",
     saying: "webpack is awesome, but webpack is fucking heinous",
   },
+  567: {
+    author: "Chris L",
+    saying: "we’re just spawning bugs",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

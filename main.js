@@ -2296,6 +2296,10 @@ const data = {
     author: "Chris L",
     saying: "we’re just spawning bugs",
   },
+  568: {
+    author: "Will B",
+    saying: "Big dogs can't join the rat race",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2300,6 +2300,10 @@ const data = {
     author: "Will B",
     saying: "Big dogs can't join the rat race",
   },
+  569: {
+    author: "Will B",
+    saying: "I am filled with whimsy",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

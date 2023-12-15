@@ -2304,6 +2304,10 @@ const data = {
     author: "Will B",
     saying: "I am filled with whimsy",
   },
+  570: {
+    author: "Chris L",
+    saying: "he smelt like arson",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

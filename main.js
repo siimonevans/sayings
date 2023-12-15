@@ -2308,6 +2308,10 @@ const data = {
     author: "Chris L",
     saying: "he smelt like arson",
   },
+  571: {
+    author: "Will B",
+    saying: "I just want a meal deal and a vape",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2312,6 +2312,10 @@ const data = {
     author: "Will B",
     saying: "Physically, I'm here. Mentally, I am Christmas.",
   },
+  572: {
+    author: "Will B",
+    saying: "Somewhere between a nap and 6 pints",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

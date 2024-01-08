@@ -2308,6 +2308,10 @@ const data = {
     author: "Chris L",
     saying: "he smelt like arson",
   },
+  571: {
+    author: "Will B",
+    saying: "Physically, I'm here. Mentally, I am Christmas.",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

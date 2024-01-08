@@ -2320,6 +2320,10 @@ const data = {
     author: "Simon",
     saying: "processprocess <i>process</i> <b>process PROCESS</b>",
   },
+  574: {
+    author: "Will B",
+    saying: "I just want a meal deal and a vape",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

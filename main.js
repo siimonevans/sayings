@@ -2328,6 +2328,10 @@ const data = {
     author: "Will B",
     saying: "Someone get him a gavel",
   },
+  576: {
+    author: "Nick L",
+    saying: "you’d want some kind of nut detector",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

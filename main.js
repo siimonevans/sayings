@@ -2324,6 +2324,10 @@ const data = {
     author: "Will B",
     saying: "I just want a meal deal and a vape",
   },
+  575: {
+    author: "Will B",
+    saying: "Someone get him a gavel",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

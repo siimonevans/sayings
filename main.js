@@ -2332,6 +2332,10 @@ const data = {
     author: "Nick L",
     saying: "you’d want some kind of nut detector",
   },
+  577: {
+    author: "Joe H",
+    saying: "Preamble ramble",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

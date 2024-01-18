@@ -2341,6 +2341,10 @@ const data = {
     saying:
       "I've got a bee in my bonnet about the reports, not a bad bee, just a bee",
   },
+  579: {
+    author: "Ben D",
+    saying: "don't discount the dog",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

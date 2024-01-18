@@ -2345,6 +2345,10 @@ const data = {
     author: "Ben D",
     saying: "don't discount the dog",
   },
+  580: {
+    author: "Dan B",
+    saying: "prepare for the customary cringe",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2349,6 +2349,10 @@ const data = {
     author: "Dan B",
     saying: "prepare for the customary cringe",
   },
+  581: {
+    author: "Nick L",
+    saying: "I’ll do an iron lotus for you",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

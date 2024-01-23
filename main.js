@@ -2353,6 +2353,10 @@ const data = {
     author: "Nick L",
     saying: "I’ll do an iron lotus for you",
   },
+  582: {
+    author: "Nick L",
+    saying: "Elon Musk in a box",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

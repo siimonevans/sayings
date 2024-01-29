@@ -2361,6 +2361,10 @@ const data = {
     author: "Anna P",
     saying: "Like a chickenpox party",
   },
+  584: {
+    author: "Chris L",
+    saying: "a slightly ripened dairylea",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

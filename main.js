@@ -2357,6 +2357,10 @@ const data = {
     author: "Nick L",
     saying: "Elon Musk in a box",
   },
+  583: {
+    author: "Anna P",
+    saying: "Like a chickenpox party",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

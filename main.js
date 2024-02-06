@@ -2365,6 +2365,10 @@ const data = {
     author: "Chris L",
     saying: "a slightly ripened dairylea",
   },
+  585: {
+    author: "Nick L",
+    saying: "is he dripping in butter",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

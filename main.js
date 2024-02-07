@@ -2369,6 +2369,10 @@ const data = {
     author: "Nick L",
     saying: "is he dripping in butter",
   },
+  586: {
+    author: "Kev",
+    saying: "I KNEW it would be airports",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

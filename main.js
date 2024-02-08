@@ -2377,6 +2377,10 @@ const data = {
     author: "Chris L",
     saying: "espresso through the hosepipe",
   },
+  588: {
+    author: "Tomasz",
+    saying: "I like drinking with my grandma",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

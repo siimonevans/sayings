@@ -2373,6 +2373,10 @@ const data = {
     author: "Kev",
     saying: "I KNEW it would be airports",
   },
+  587: {
+    author: "Chris L",
+    saying: "espresso through the hosepipe",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

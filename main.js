@@ -2381,6 +2381,10 @@ const data = {
     author: "Tomasz",
     saying: "I like drinking with my grandma",
   },
+  589: {
+    author: "Simon",
+    saying: "my fingers have forgotten",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

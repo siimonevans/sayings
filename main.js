@@ -2385,6 +2385,10 @@ const data = {
     author: "Simon",
     saying: "my fingers have forgotten",
   },
+  590: {
+    author: "Nick L",
+    saying: "want to join a zoom and watch me do nordschleife?",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

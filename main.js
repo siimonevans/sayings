@@ -2389,6 +2389,10 @@ const data = {
     author: "Nick L",
     saying: "want to join a zoom and watch me do nordschleife?",
   },
+  591: {
+    author: "pv",
+    saying: "I’ve often been called an opinionated asset",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

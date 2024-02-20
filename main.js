@@ -2393,6 +2393,10 @@ const data = {
     author: "pv",
     saying: "I’ve often been called an opinionated asset",
   },
+  592: {
+    author: "Steve S",
+    saying: "I do the best bug fixes in my sleep",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

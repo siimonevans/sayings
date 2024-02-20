@@ -2397,6 +2397,10 @@ const data = {
     author: "Steve S",
     saying: "I do the best bug fixes in my sleep",
   },
+  593: {
+    author: "Anna P",
+    saying: "its all gravy on this train",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

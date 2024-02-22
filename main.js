@@ -2401,6 +2401,10 @@ const data = {
     author: "Anna P",
     saying: "its all gravy on this train",
   },
+  594: {
+    author: "Nick L",
+    saying: "my middle knob doesn’t work",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

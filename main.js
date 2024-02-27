@@ -2405,6 +2405,10 @@ const data = {
     author: "Nick L",
     saying: "my middle knob doesn’t work",
   },
+  595: {
+    author: "Chris L",
+    saying: "then everyone spoke like chipmunks",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

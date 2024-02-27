@@ -2409,6 +2409,10 @@ const data = {
     author: "Chris L",
     saying: "then everyone spoke like chipmunks",
   },
+  596: {
+    author: "Will B",
+    saying: "I wish I was your cats",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

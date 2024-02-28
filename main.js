@@ -2413,6 +2413,10 @@ const data = {
     author: "Will B",
     saying: "I wish I was your cats",
   },
+  597: {
+    author: "Anna P",
+    saying: "there’s only so many flapjacks i can eat today",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

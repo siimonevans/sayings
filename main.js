@@ -2417,6 +2417,10 @@ const data = {
     author: "Anna P",
     saying: "there’s only so many flapjacks i can eat today",
   },
+  598: {
+    author: "Anon",
+    saying: "That – I won’t give my opinion on that but we’ll get there one day",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

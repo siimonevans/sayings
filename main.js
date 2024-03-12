@@ -2419,7 +2419,12 @@ const data = {
   },
   598: {
     author: "Anon",
-    saying: "That – I won’t give my opinion on that but we’ll get there one day",
+    saying:
+      "That – I won’t give my opinion on that but we’ll get there one day",
+  },
+  599: {
+    author: "Chris L",
+    saying: "how do you restart the whales engine",
   },
 };
 

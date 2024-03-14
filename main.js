@@ -2426,6 +2426,11 @@ const data = {
     author: "Chris L",
     saying: "how do you restart the whales engine",
   },
+  600: {
+    author: "Lauren",
+    saying:
+      "anything from bodies under the patio to weaving jumpers out of cat hair",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

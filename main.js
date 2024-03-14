@@ -2431,6 +2431,10 @@ const data = {
     saying:
       "anything from bodies under the patio to weaving jumpers out of cat hair",
   },
+  601: {
+    author: "James H",
+    saying: "There are some scripts happening",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

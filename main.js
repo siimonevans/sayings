@@ -2435,6 +2435,10 @@ const data = {
     author: "James H",
     saying: "There are some scripts happening",
   },
+  602: {
+    author: "Simon",
+    saying: "just banter and vibes",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

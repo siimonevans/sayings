@@ -2439,6 +2439,10 @@ const data = {
     author: "Simon",
     saying: "just banter and vibes",
   },
+  603: {
+    author: "Thibaud",
+    saying: "Wagtail is big",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

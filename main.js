@@ -2443,6 +2443,10 @@ const data = {
     author: "Thibaud",
     saying: "Wagtail is big",
   },
+  604: {
+    author: "Chris L",
+    saying: "had to detach my head to go back in time",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

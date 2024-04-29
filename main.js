@@ -2451,6 +2451,10 @@ const data = {
     author: "Chris L",
     saying: "he’s too busy with his threadpoolexecutor",
   },
+  606: {
+    author: "Steve S",
+    saying: "it's all fun and games until deployment",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

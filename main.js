@@ -2455,6 +2455,10 @@ const data = {
     author: "Steve S",
     saying: "it's all fun and games until deployment",
   },
+  607: {
+    author: "Steve S",
+    saying: "our old is your new",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2463,6 +2463,10 @@ const data = {
     author: "Chris L",
     saying: "thaw me out when it’s time for refinement",
   },
+  609: {
+    author: "Simon",
+    saying: "I can hear them sponging outside my room",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

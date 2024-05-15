@@ -2459,6 +2459,10 @@ const data = {
     author: "Steve S",
     saying: "our old is your new",
   },
+  608: {
+    author: "Chris L",
+    saying: "thaw me out when it’s time for refinement",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

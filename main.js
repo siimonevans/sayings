@@ -2467,6 +2467,10 @@ const data = {
     author: "Simon",
     saying: "I can hear them sponging outside my room",
   },
+  610: {
+    author: "Nick L",
+    saying: "they’re still stuck in there weeing on your walls",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

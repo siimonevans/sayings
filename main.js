@@ -2471,6 +2471,10 @@ const data = {
     author: "Nick L",
     saying: "they’re still stuck in there weeing on your walls",
   },
+  611: {
+    author: "Chris L",
+    saying: "backlog refinement in the bearpit",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

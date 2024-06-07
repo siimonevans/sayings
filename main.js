@@ -2475,6 +2475,10 @@ const data = {
     author: "Chris L",
     saying: "backlog refinement in the bearpit",
   },
+  612: {
+    author: "Simon E",
+    saying: "they go mad when I pull out the hotdogs",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

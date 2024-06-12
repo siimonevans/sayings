@@ -2479,6 +2479,10 @@ const data = {
     author: "Simon E",
     saying: "they go mad when I pull out the hotdogs",
   },
+  613: {
+    author: "Nick L",
+    saying: "I just had to catch a pheasant",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2483,6 +2483,10 @@ const data = {
     author: "Nick L",
     saying: "I just had to catch a pheasant",
   },
+  614: {
+    author: "Chris L",
+    saying: "time for a prune",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

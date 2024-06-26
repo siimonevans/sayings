@@ -2487,6 +2487,10 @@ const data = {
     author: "Chris L",
     saying: "time for a prune",
   },
+  615: {
+    author: "Nick L",
+    saying: "wonder how big the glitter poo will be if i base64 encode it",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

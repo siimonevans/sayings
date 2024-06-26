@@ -2491,6 +2491,10 @@ const data = {
     author: "Nick L",
     saying: "wonder how big the glitter poo will be if i base64 encode it",
   },
+  616: {
+    author: "Chris D",
+    saying: "I'm used to being the fun killer these days",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

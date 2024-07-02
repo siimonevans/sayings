@@ -2495,6 +2495,10 @@ const data = {
     author: "Chris D",
     saying: "I'm used to being the fun killer these days",
   },
+  617: {
+    author: "Ben D",
+    saying: "it’s the right kind of unhinged",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2499,6 +2499,10 @@ const data = {
     author: "Ben D",
     saying: "it’s the right kind of unhinged",
   },
+  618: {
+    author: "Ben D",
+    saying: "no-one's arguing with those calves",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

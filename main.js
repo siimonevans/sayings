@@ -2503,6 +2503,10 @@ const data = {
     author: "Ben D",
     saying: "no-one's arguing with those calves",
   },
+  619: {
+    author: "Mark",
+    saying: "they don’t have a strategy so don’t expect any logic",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

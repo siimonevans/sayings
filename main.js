@@ -2507,6 +2507,10 @@ const data = {
     author: "Mark",
     saying: "they don’t have a strategy so don’t expect any logic",
   },
+  620: {
+    author: "Charmagne",
+    saying: "I’d totally hands down win a rap-off",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2511,6 +2511,10 @@ const data = {
     author: "Charmagne",
     saying: "I’d totally hands down win a rap-off",
   },
+  621: {
+    author: "Kev",
+    saying: "I can send you a pregnant cow, or some yoghurts",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

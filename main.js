@@ -2515,6 +2515,10 @@ const data = {
     author: "Kev",
     saying: "I can send you a pregnant cow, or some yoghurts",
   },
+  622: {
+    author: "Kev",
+    saying: "I've been eating yoghurts all day",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2519,6 +2519,10 @@ const data = {
     author: "Kev",
     saying: "I've been eating yoghurts all day",
   },
+  623: {
+    author: "Mark",
+    saying: "I’ve opened the agency bullshit dictionary",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

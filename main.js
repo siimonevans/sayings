@@ -2523,6 +2523,10 @@ const data = {
     author: "Mark",
     saying: "I’ve opened the agency bullshit dictionary",
   },
+  624: {
+    author: "Simon",
+    saying: "thank god for danks",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

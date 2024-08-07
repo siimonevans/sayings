@@ -2527,6 +2527,11 @@ const data = {
     author: "Simon",
     saying: "thank god for danks",
   },
+  625: {
+    author: "Simon",
+    saying:
+      "hey look how much money you’ve spunked up the wall with third party GTM",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

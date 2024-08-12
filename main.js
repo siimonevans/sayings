@@ -2532,6 +2532,10 @@ const data = {
     saying:
       "hey look how much money you’ve spunked up the wall with third party GTM",
   },
+  626: {
+    author: "Chris L",
+    saying: "share your lynx africa with loch ness",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

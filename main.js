@@ -2536,6 +2536,10 @@ const data = {
     author: "Chris L",
     saying: "share your lynx africa with loch ness",
   },
+  627: {
+    author: "Simon E",
+    saying: "the bhaji is always inconsistent",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

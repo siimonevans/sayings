@@ -2540,6 +2540,10 @@ const data = {
     author: "Simon E",
     saying: "the bhaji is always inconsistent",
   },
+  628: {
+    author: "Ian",
+    saying: "Ten days of Nick Lee would rock anybody's world",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2544,6 +2544,10 @@ const data = {
     author: "Ian",
     saying: "Ten days of Nick Lee would rock anybody's world",
   },
+  629: {
+    author: "Chris L",
+    saying: "it's a cherry pickers delight",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

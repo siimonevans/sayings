@@ -2548,6 +2548,10 @@ const data = {
     author: "Chris L",
     saying: "it's a cherry pickers delight",
   },
+  630: {
+    author: "Kev",
+    saying: "I could't CEO a cat",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

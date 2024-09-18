@@ -2552,6 +2552,10 @@ const data = {
     author: "Kev",
     saying: "I couldn't CEO a cat",
   },
+  631: {
+    author: "Helen C",
+    saying: "I tell my husband off for being rude to alexa",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

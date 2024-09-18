@@ -2550,7 +2550,7 @@ const data = {
   },
   630: {
     author: "Kev",
-    saying: "I could't CEO a cat",
+    saying: "I couldn't CEO a cat",
   },
 };
 

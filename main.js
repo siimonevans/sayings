@@ -2556,6 +2556,10 @@ const data = {
     author: "Helen C",
     saying: "I tell my husband off for being rude to alexa",
   },
+  632: {
+    author: "Kev",
+    saying: "I'm usually 90% sense free",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

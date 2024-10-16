@@ -2560,6 +2560,26 @@ const data = {
     author: "Kev",
     saying: "I'm usually 90% sense free",
   },
+  633: {
+    author: "Arran",
+    saying: "I don’t like being out after 2pm on a Sunday",
+  },
+  634: {
+    author: "Mark",
+    saying: "going to live amongst the kangaroos",
+  },
+  635: {
+    author: "Kev",
+    saying: "sso good",
+  },
+  636: {
+    author: "Nick L",
+    saying: "so many anonymous otters",
+  },
+  637: {
+    author: "Nick L",
+    saying: "the otter is going wild",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

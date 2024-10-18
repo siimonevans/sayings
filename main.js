@@ -2580,6 +2580,10 @@ const data = {
     author: "Nick L",
     saying: "the otter is going wild",
   },
+  638: {
+    author: "Jenny H",
+    saying: "It's a KitKat Chunky and it goes right in",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

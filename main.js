@@ -2584,6 +2584,10 @@ const data = {
     author: "Jenny H",
     saying: "It's a KitKat Chunky and it goes right in",
   },
+  639: {
+    author: "Simon E",
+    saying: "bread on toast",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

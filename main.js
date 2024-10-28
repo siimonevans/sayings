@@ -2588,6 +2588,10 @@ const data = {
     author: "Simon E",
     saying: "bread on toast",
   },
+  640: {
+    author: "Simon E",
+    saying: "my whole house is vibrating again",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

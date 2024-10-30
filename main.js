@@ -2592,6 +2592,10 @@ const data = {
     author: "Simon E",
     saying: "my whole house is vibrating again",
   },
+  641: {
+    author: "Katriina",
+    saying: "I’m a silly person with small hands and a big phone",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

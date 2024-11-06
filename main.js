@@ -2596,6 +2596,10 @@ const data = {
     author: "Katriina",
     saying: "I’m a silly person with small hands and a big phone",
   },
+  642: {
+    author: "Joe H",
+    saying: "Have a break, have a quick cat.",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

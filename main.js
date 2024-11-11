@@ -2604,6 +2604,10 @@ const data = {
     author: "Chris L",
     saying: "may as well be eating cardboard for every meal",
   },
+  644: {
+    author: "Chris L",
+    saying: "proper shoehorner",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

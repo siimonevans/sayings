@@ -2612,6 +2612,10 @@ const data = {
     author: "Abigail",
     saying: "Paul Vetch special",
   },
+  646: {
+    author: "Mandy",
+    saying: "Everyone you speak to is like an exhausted pigeon",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2620,6 +2620,10 @@ const data = {
     author: "Nick L",
     saying: "attach a defensive skunk to the package",
   },
+  648: {
+    author: "Simon",
+    saying: "remember it's just pixels on a screen, no one really gives a shit",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

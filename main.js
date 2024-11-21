@@ -2616,6 +2616,10 @@ const data = {
     author: "Mandy",
     saying: "Everyone you speak to is like an exhausted pigeon",
   },
+  647: {
+    author: "Nick L",
+    saying: "attach a defensive skunk to the package",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

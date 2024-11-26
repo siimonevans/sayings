@@ -2624,6 +2624,10 @@ const data = {
     author: "Simon",
     saying: "remember it's just pixels on a screen, no one really gives a shit",
   },
+  649: {
+    author: "Josh",
+    saying: "they don't call me quick-draw mcmoji for nothing",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

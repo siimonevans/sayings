@@ -2628,6 +2628,10 @@ const data = {
     author: "Josh",
     saying: "they don't call me quick-draw mcmoji for nothing",
   },
+  650: {
+    author: "Anon",
+    saying: "It’s cognitive tennis",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

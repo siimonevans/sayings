@@ -2636,6 +2636,10 @@ const data = {
     author: "Helen C",
     saying: "Oh, I thought my cursor was your cursor. Mi cursor su cursor.",
   },
+  652: {
+    author: "Simon E",
+    saying: "Now That's What I Call MegaBiscuit™ 2024",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

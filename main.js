@@ -2640,6 +2640,10 @@ const data = {
     author: "Simon E",
     saying: "Now That's What I Call MegaBiscuit™ 2024",
   },
+  653: {
+    author: "Cassie",
+    saying: "hi I'm here for the donuts",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

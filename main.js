@@ -2644,6 +2644,10 @@ const data = {
     author: "Cassie",
     saying: "hi I'm here for the donuts",
   },
+  654: {
+    author: "Thibaud",
+    saying: "It’s just another spreadsheet with words in it",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

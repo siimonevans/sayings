@@ -2648,6 +2648,10 @@ const data = {
     author: "Thibaud",
     saying: "It’s just another spreadsheet with words in it",
   },
+  655: {
+    author: "Arran",
+    saying: "He should run 'how not to be a shit client' classes",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

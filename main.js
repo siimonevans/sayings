@@ -2652,6 +2652,10 @@ const data = {
     author: "Arran",
     saying: "He should run 'how not to be a shit client' classes",
   },
+  656: {
+    author: "Peter H",
+    saying: "I might need to start a cult as a side hustle",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

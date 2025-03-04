@@ -2656,6 +2656,10 @@ const data = {
     author: "Peter H",
     saying: "I might need to start a cult as a side hustle",
   },
+  657: {
+    author: "Baptiste",
+    saying: "Come on, they're paying me in brown cheese it's worth it",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

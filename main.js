@@ -2660,6 +2660,10 @@ const data = {
     author: "Baptiste",
     saying: "Come on, they're paying me in brown cheese it's worth it",
   },
+  658: {
+    author: "John Dunford",
+    saying: "Real Housewives Of Torchbox",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

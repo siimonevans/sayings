@@ -2661,8 +2661,12 @@ const data = {
     saying: "Come on, they're paying me in brown cheese it's worth it",
   },
   658: {
-    author: "John Dunford",
+    author: "John D",
     saying: "Real Housewives Of Torchbox",
+  },
+  659: {
+    author: "Pete W",
+    saying: "React doesn't do things when you tell it to, it does things when it feels like it",
   },
 };
 

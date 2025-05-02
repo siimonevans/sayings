@@ -2668,6 +2668,10 @@ const data = {
     author: "Pete W",
     saying: "React doesn't do things when you tell it to, it does things when it feels like it",
   },
+  660: {
+    author: "John D",
+    saying: "Nesting dolls of certainty",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

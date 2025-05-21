@@ -2672,6 +2672,10 @@ const data = {
     author: "John D",
     saying: "Nesting dolls of certainty",
   },
+  661: {
+    author: "Arran",
+    saying: "Tentative naughty list",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2676,6 +2676,10 @@ const data = {
     author: "Arran",
     saying: "Tentative naughty list",
   },
+  662: {
+    author: "Peter H",
+    saying: "Hoang on",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

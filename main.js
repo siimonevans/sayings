@@ -2680,6 +2680,10 @@ const data = {
     author: "Peter H",
     saying: "Hoang on",
   },
+  663: {
+    author: "Vicky",
+    saying: "His priorities are a moveable feast",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

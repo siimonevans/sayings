@@ -2684,6 +2684,10 @@ const data = {
     author: "Vicky",
     saying: "His priorities are a moveable feast",
   },
+  664: {
+    author: "Chris L",
+    saying: "just turn all your servers off",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2688,6 +2688,10 @@ const data = {
     author: "Chris L",
     saying: "just turn all your servers off",
   },
+  665: {
+    author: "Mandy",
+    saying: "Who even are we?",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

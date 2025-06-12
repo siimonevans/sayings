@@ -2692,6 +2692,10 @@ const data = {
     author: "Mandy",
     saying: "Who even are we?",
   },
+  666: {
+    author: "Ania",
+    saying: "i dont even know which way to bite it",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

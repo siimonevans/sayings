@@ -2700,6 +2700,10 @@ const data = {
     author: "Josh",
     saying: "the mustard tiger always improves my day",
   },
+  668: {
+    author: "Mandy",
+    saying: "Like a hot potato!",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

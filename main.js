@@ -2708,6 +2708,10 @@ const data = {
     author: "Josh",
     saying: "It's like Brian Eno if he got high and watched 2001",
   },
+  670: {
+    author: "Nick L",
+    saying: "obviously it depends on girth",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

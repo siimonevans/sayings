@@ -2704,6 +2704,10 @@ const data = {
     author: "Mandy",
     saying: "Like a hot potato!",
   },
+  669: {
+    author: "Josh",
+    saying: "It's like Brian Eno if he got high and watched 2001",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

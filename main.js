@@ -2712,6 +2712,10 @@ const data = {
     author: "Nick L",
     saying: "obviously it depends on girth",
   },
+  671: {
+    author: "Rachel",
+    saying: "That's the context crab",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

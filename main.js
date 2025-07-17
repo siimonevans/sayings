@@ -2716,6 +2716,10 @@ const data = {
     author: "Rachel",
     saying: "That's the context crab",
   },
+  672: {
+    author: "Iona",
+    saying: "it’s a juicy war zone",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

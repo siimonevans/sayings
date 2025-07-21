@@ -2720,6 +2720,10 @@ const data = {
     author: "Iona",
     saying: "it’s a juicy war zone",
   },
+  673: {
+    author: "Chris L",
+    saying: "sausage roll sweetener",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

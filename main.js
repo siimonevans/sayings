@@ -2724,6 +2724,10 @@ const data = {
     author: "Chris L",
     saying: "sausage roll sweetener",
   },
+  674: {
+    author: "John D",
+    saying: "From regression to aggression",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

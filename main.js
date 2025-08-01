@@ -2728,6 +2728,10 @@ const data = {
     author: "John D",
     saying: "From regression to aggression",
   },
+  675: {
+    author: "Simon",
+    saying: "run off clutching my woffs",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

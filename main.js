@@ -2732,6 +2732,10 @@ const data = {
     author: "Simon",
     saying: "run off clutching my woffs",
   },
+  676: {
+    author: "Mandy",
+    saying: "Costa del Derbyshire",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

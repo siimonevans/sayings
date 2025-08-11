@@ -2736,6 +2736,10 @@ const data = {
     author: "Mandy",
     saying: "Costa del Derbyshire",
   },
+  677: {
+    author: "Mark",
+    saying: "need to sit down with a bottle of rum and a spreadsheet",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

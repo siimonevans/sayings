@@ -2740,6 +2740,10 @@ const data = {
     author: "Mark",
     saying: "need to sit down with a bottle of rum and a spreadsheet",
   },
+  678: {
+    author: "Alice",
+    saying: "they call me Alice Wise Logan",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

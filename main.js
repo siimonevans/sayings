@@ -2748,6 +2748,10 @@ const data = {
     author: "Chris L",
     saying: "half rice half chips",
   },
+  680: {
+    author: "Charmagne",
+    saying: "Extra points for a giant trunk",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

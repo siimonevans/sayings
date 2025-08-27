@@ -2744,6 +2744,10 @@ const data = {
     author: "Alice",
     saying: "they call me Alice Wise Logan",
   },
+  679: {
+    author: "Chris L",
+    saying: "half rice half chips",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

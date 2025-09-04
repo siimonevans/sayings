@@ -2752,6 +2752,10 @@ const data = {
     author: "Charmagne",
     saying: "Extra points for a giant trunk",
   },
+  681: {
+    author: "John D",
+    saying: "Is it draughts or 3d chess?",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

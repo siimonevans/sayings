@@ -2756,6 +2756,10 @@ const data = {
     author: "John D",
     saying: "Is it draughts or 3d chess?",
   },
+  682: {
+    author: "Josh",
+    saying: "hang on, let me zoom to 300%",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

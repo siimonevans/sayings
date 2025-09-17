@@ -2760,6 +2760,10 @@ const data = {
     author: "Josh",
     saying: "hang on, let me zoom to 300%",
   },
+  683: {
+    author: "Charmagne",
+    saying: "He looks like a wormer to me",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

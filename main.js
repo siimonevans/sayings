@@ -2764,6 +2764,10 @@ const data = {
     author: "Charmagne",
     saying: "He looks like a wormer to me",
   },
+  684: {
+    author: "Alice",
+    saying: "a real scoffer",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

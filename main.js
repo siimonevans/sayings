@@ -2768,6 +2768,10 @@ const data = {
     author: "Alice",
     saying: "a real scoffer",
   },
+  685: {
+    author: "Mitch",
+    saying: "just undo everything",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

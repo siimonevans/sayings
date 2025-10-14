@@ -2772,6 +2772,10 @@ const data = {
     author: "Mitch",
     saying: "just undo everything",
   },
+  686: {
+    author: "Phil M",
+    saying: "Dreams come at a cost",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

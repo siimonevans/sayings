@@ -2776,6 +2776,10 @@ const data = {
     author: "Phil M",
     saying: "Dreams come at a cost",
   },
+  687: {
+    author: "John D",
+    saying: "I don't want to live in a sweaty Lush",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

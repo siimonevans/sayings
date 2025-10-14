@@ -2780,6 +2780,10 @@ const data = {
     author: "John D",
     saying: "I don't want to live in a sweaty Lush",
   },
+  688: {
+    author: "Josh",
+    saying: "prepare for an onslaught of ego-driven development",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

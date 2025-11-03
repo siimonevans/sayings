@@ -2784,6 +2784,10 @@ const data = {
     author: "Josh",
     saying: "prepare for an onslaught of ego-driven development",
   },
+  689: {
+    author: "Weylon",
+    saying: "I’m just budget friendly",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

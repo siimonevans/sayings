@@ -2792,6 +2792,10 @@ const data = {
     author: "Chris H",
     saying: "I’d rather have dead rats and heating",
   },
+  691: {
+    author: "Mandy",
+    saying: "Very mondayish",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2796,6 +2796,10 @@ const data = {
     author: "Mandy",
     saying: "Very mondayish",
   },
+  692: {
+    author: "Mark",
+    saying: "digging deep to remember why I live in the uk",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

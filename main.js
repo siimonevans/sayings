@@ -2800,6 +2800,10 @@ const data = {
     author: "Mark",
     saying: "digging deep to remember why I live in the uk",
   },
+  693: {
+    author: "Mitch",
+    saying: "Drive to Spain",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

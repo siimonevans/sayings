@@ -2804,6 +2804,10 @@ const data = {
     author: "Mitch",
     saying: "Drive to Spain",
   },
+  694: {
+    author: "Simon",
+    saying: "I'm dumb but not that dumb",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

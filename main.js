@@ -2808,6 +2808,10 @@ const data = {
     author: "Simon",
     saying: "I'm dumb but not that dumb",
   },
+  695: {
+    author: "Chris L",
+    saying: "your head my shoulders",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

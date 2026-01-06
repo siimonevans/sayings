@@ -2812,6 +2812,10 @@ const data = {
     author: "Chris L",
     saying: "your head my shoulders",
   },
+  696: {
+    author: "Lizzie",
+    saying: "Life’s too short for bad food decisions",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2816,6 +2816,10 @@ const data = {
     author: "Lizzie",
     saying: "Life’s too short for bad food decisions",
   },
+  676: {
+    author: "Alice",
+    saying: "this is not the last time I will be weird",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

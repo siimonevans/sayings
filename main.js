@@ -2820,6 +2820,10 @@ const data = {
     author: "Alice",
     saying: "this is not the last time I will be weird",
   },
+  677: {
+    author: "Simon",
+    saying: "I'm too scared to tinker",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

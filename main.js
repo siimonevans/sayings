@@ -2824,6 +2824,10 @@ const data = {
     author: "Simon",
     saying: "I'm too scared to tinker",
   },
+  678: {
+    author: "Ben T",
+    saying: "in the armpit of the star",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

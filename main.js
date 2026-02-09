@@ -2828,6 +2828,14 @@ const data = {
     author: "Ben T",
     saying: "in the armpit of the star",
   },
+  679: {
+    author: "Dave H",
+    saying: "Late Night Tales with Dave Harris",
+  },
+  680: {
+    author: "Ben E",
+    saying: "bedtime snuggles with the OG paddington bear",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

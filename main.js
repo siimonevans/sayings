@@ -2836,6 +2836,10 @@ const data = {
     author: "Ben E",
     saying: "bedtime snuggles with the OG paddington bear",
   },
+  681: {
+    author: "Simon",
+    saying: "I can be destroyer of worlds",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

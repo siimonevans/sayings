@@ -2840,6 +2840,10 @@ const data = {
     author: "Simon",
     saying: "I can be destroyer of worlds",
   },
+  682: {
+    author: "Steve S",
+    saying: "I'll play it on tin whistle standing by the glow of a golden bowl of soup",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2844,6 +2844,10 @@ const data = {
     author: "Steve S",
     saying: "I'll play it on tin whistle standing by the glow of a golden bowl of soup",
   },
+  683: {
+    author: "Ellie",
+    saying: "surthriving",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

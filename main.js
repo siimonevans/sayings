@@ -2848,6 +2848,10 @@ const data = {
     author: "Ellie",
     saying: "surthriving",
   },
+  684: {
+    author: "Chris L",
+    saying: "I think the level of ranting is equivalent to the level of how preposterous that suggestion is",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

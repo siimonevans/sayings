@@ -2852,6 +2852,10 @@ const data = {
     author: "Chris L",
     saying: "I think the level of ranting is equivalent to the level of how preposterous that suggestion is",
   },
+  685: {
+    author: "Simon",
+    saying: "I want to drown them in data",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

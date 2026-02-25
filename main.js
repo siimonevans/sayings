@@ -2856,6 +2856,10 @@ const data = {
     author: "Simon",
     saying: "I want to drown them in data",
   },
+  707: {
+    author: "Kev",
+    saying: "feels like I'm carrying a birds nest on my face",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

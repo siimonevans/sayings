@@ -2860,6 +2860,10 @@ const data = {
     author: "Kev",
     saying: "feels like I'm carrying a birds nest on my face",
   },
+  708: {
+    author: "Nick L",
+    saying: "i can’t get it to use my proper pigeon",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

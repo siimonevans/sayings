@@ -2864,6 +2864,10 @@ const data = {
     author: "Nick L",
     saying: "i can’t get it to use my proper pigeon",
   },
+  709: {
+    author: "Ania",
+    saying: "the thicker the more IQ, you know it",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

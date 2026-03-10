@@ -2868,6 +2868,10 @@ const data = {
     author: "Ania",
     saying: "the thicker the more IQ, you know it",
   },
+  710: {
+    author: "pv",
+    saying: "they have completely screwed the pooch",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

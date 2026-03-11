@@ -2872,6 +2872,10 @@ const data = {
     author: "pv",
     saying: "they have completely screwed the pooch",
   },
+  711: {
+    author: "Chris L",
+    saying: "Stone Cold Steve Steinwand",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2876,6 +2876,10 @@ const data = {
     author: "Chris L",
     saying: "Stone Cold Steve Steinwand",
   },
+  712: {
+    author: "Mark",
+    saying: "spiritually i’ve been mauled",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

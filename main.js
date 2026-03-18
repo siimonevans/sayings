@@ -2880,6 +2880,10 @@ const data = {
     author: "Mark",
     saying: "spiritually i’ve been mauled",
   },
+  713: {
+    author: "Nick L",
+    saying: "cellotape a dog to it",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2884,6 +2884,14 @@ const data = {
     author: "Nick L",
     saying: "cellotape a dog to it",
   },
+  714: {
+    author: "Dom",
+    saying: "I live for the berrocas",
+  },
+  715: {
+    author: "Dom",
+    saying: "the orange ambulance",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

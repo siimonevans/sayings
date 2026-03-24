@@ -2892,6 +2892,10 @@ const data = {
     author: "Dom",
     saying: "the orange ambulance",
   },
+  716: {
+    author: "Mitch",
+    saying: "I have the memory of a bird so it didn’t happen.",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

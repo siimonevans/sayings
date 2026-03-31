@@ -2896,6 +2896,10 @@ const data = {
     author: "Mitch",
     saying: "I have the memory of a bird so it didn’t happen.",
   },
+  717: {
+    author: "Maciej",
+    saying: "looking forward to having my own claude code goose",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

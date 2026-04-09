@@ -2904,6 +2904,10 @@ const data = {
     author: "Claudia",
     saying: "you can call me the butcher",
   },
+  719: {
+    author: "Ellie",
+    saying: "Not as good as Miles's ginormous spanner",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

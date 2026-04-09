@@ -2907,24 +2907,45 @@ const data = {
 };
 
 const quoteContainer = document.getElementById("quote");
+const authorContainer = document.getElementById("author");
 
 const quotes = Object.keys(data).reduce(
   (quoteArray, key) => [...quoteArray, data[key]],
   []
 );
 
-// Get random quote
+// Get the author from the URL query parameter
+function getAuthorFromURL() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const author = urlParams.get('author')?.trim().toLowerCase(); // e.g., ?author=Author%20Name
+  if (author) {
+    return author;
+  }
+  return null;
+}
+
+// Filter quotes by the author specified in the URL
+function filterQuotesByAuthor(author) {
+  return quotes.filter(quote => quote.author.toLowerCase().includes(author));
+}
+
+// Get a random quote (with optional author filtering)
 randomQuote = () => {
-  return quotes[Math.floor(Math.random() * quotes.length)];
-};
+  const author = getAuthorFromURL();
+  let filteredQuotes = quotes;
+
+  if (author) {
+    filteredQuotes = filterQuotesByAuthor(author);
+  }
+
+  return filteredQuotes[Math.floor(Math.random() * filteredQuotes.length)];
+}
 
 // Update DOM with quote
 updateQuote = () => {
   const selectedQuote = randomQuote();
-  quoteContainer.innerHTML = `
-    <div>${selectedQuote.author}</div>
-    ${selectedQuote.saying}
-  `;
+  authorContainer.textContent = `${selectedQuote.author}`;
+  quoteContainer.textContent = `${selectedQuote.saying}`;
 };
 
 // On load

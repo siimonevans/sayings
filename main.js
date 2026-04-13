@@ -2908,6 +2908,10 @@ const data = {
     author: "Ellie",
     saying: "Not as good as Miles's ginormous spanner",
   },
+  720: {
+    author: "Chris L",
+    saying: "i was just blasting arrows down the alley",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

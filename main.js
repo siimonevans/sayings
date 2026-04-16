@@ -2912,6 +2912,10 @@ const data = {
     author: "Chris L",
     saying: "i was just blasting arrows down the alley",
   },
+  721: {
+    author: "Bojan",
+    saying: "I almost deleted my computer",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

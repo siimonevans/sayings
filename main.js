@@ -2916,6 +2916,10 @@ const data = {
     author: "Bojan",
     saying: "I almost deleted my computer",
   },
+  722: {
+    author: "Nick L",
+    saying: "why would I croissant a new employee",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

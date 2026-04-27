@@ -2920,6 +2920,10 @@ const data = {
     author: "Nick L",
     saying: "why would I croissant a new employee",
   },
+  723: {
+    author: "Josh",
+    saying: "Sometimes you do all the right things and the mould still wins",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

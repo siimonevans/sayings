@@ -2924,6 +2924,10 @@ const data = {
     author: "Josh",
     saying: "Sometimes you do all the right things and the mould still wins",
   },
+  724: {
+    author: "Mitch",
+    saying: "I am the flex",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

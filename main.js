@@ -2928,6 +2928,10 @@ const data = {
     author: "Mitch",
     saying: "I am the flex",
   },
+  725: {
+    author: "Nick L",
+    saying: "stomach feels dangerous",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

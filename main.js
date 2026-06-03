@@ -2932,6 +2932,10 @@ const data = {
     author: "Nick L",
     saying: "stomach feels dangerous",
   },
+  727: {
+    author: "Simon",
+    saying: "your wood will be swollen",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

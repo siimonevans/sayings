@@ -2936,6 +2936,10 @@ const data = {
     author: "Simon",
     saying: "your wood will be swollen",
   },
+  728: {
+    author: "Chris L",
+    saying: "need to get some drones to fly them into their mouths",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

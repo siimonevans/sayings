@@ -2948,6 +2948,14 @@ const data = {
     author: "Helen C",
     saying: "Emperor PalpeopleHRpatine",
   },
+  731: {
+    author: "Anon",
+    saying: "Staying alive in the data lake of chaos",
+  },
+  732: {
+    author: "Mark",
+    saying: "wake up in madagascar",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

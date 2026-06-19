@@ -2956,6 +2956,10 @@ const data = {
     author: "Mark",
     saying: "wake up in madagascar",
   },
+  733: {
+    author: "Roman",
+    saying: "I’m bathing in vodka and baby oil after end of the day",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

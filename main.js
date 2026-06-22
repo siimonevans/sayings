@@ -2960,6 +2960,10 @@ const data = {
     author: "Roman",
     saying: "I’m bathing in vodka and baby oil after end of the day",
   },
+  734: {
+    author: "Ania",
+    saying: "ARE YOU WEARING JUMPER????!!!!!!",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

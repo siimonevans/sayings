@@ -2968,6 +2968,10 @@ const data = {
     author: "Simon",
     saying: "normalise the naps",
   },
+  736: {
+    author: "Nick L",
+    saying: "kill two birds with one doctor",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

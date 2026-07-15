@@ -2964,6 +2964,10 @@ const data = {
     author: "Ania",
     saying: "ARE YOU WEARING JUMPER????!!!!!!",
   },
+  735: {
+    author: "Simon",
+    saying: "normalise the naps",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

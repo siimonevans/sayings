@@ -2972,6 +2972,10 @@ const data = {
     author: "Nick L",
     saying: "kill two birds with one doctor",
   },
+  737: {
+    author: "Nick L",
+    saying: "private toe toucher",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

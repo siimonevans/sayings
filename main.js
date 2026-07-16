@@ -2980,6 +2980,10 @@ const data = {
     author: "Chris L",
     saying: "4 minute brawl",
   },
+  739: {
+    author: "Josh",
+    saying: "my memory is weird",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

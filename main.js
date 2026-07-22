@@ -2984,6 +2984,10 @@ const data = {
     author: "Josh",
     saying: "my memory is weird",
   },
+  740: {
+    author: "Nick L",
+    saying: "butler in the carbon fibre buff",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

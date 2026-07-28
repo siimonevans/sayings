@@ -2988,6 +2988,10 @@ const data = {
     author: "Nick L",
     saying: "butler in the carbon fibre buff",
   },
+  741: {
+    author: "Josh",
+    saying: "wun hundo",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

@@ -2992,6 +2992,10 @@ const data = {
     author: "Josh",
     saying: "wun hundo",
   },
+  742: {
+    author: "Millie",
+    saying: "bullets are breakdowns",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

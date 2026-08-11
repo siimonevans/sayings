@@ -2996,6 +2996,10 @@ const data = {
     author: "Millie",
     saying: "bullets are breakdowns",
   },
+  743: {
+    author: "Millie",
+    saying: "I make the bread, to GET the bread",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

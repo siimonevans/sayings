@@ -3000,6 +3000,10 @@ const data = {
     author: "Millie",
     saying: "I make the bread, to GET the bread",
   },
+  744: {
+    author: "Weylon",
+    saying: "all the glory and none of the blame",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

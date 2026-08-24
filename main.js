@@ -3004,6 +3004,10 @@ const data = {
     author: "Weylon",
     saying: "all the glory and none of the blame",
   },
+  745: {
+    author: "Kev",
+    saying: "I'm in a rebase dungeon",
+  },
 };
 
 const quoteContainer = document.getElementById("quote");

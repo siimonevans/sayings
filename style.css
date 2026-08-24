@@ -1,0 +1,427 @@
+:root {
+  --bg-color: #030712;
+  --bg-glow: rgba(47, 111, 237, 0.35);
+  --text-color: #f5f7fa;
+  --accent: #6c9bff;
+  --author-color: var(--accent);
+  --card-bg: rgba(255, 255, 255, 0.05);
+  --card-border: rgba(255, 255, 255, 0.1);
+  --card-border-hover: rgba(255, 255, 255, 0.2);
+  --hint-color: rgba(245, 247, 250, 0.5);
+}
+
+:root[data-theme="light"] {
+  --bg-color: #f4f6fb;
+  --bg-glow: rgba(235, 200, 210, 0.15);
+  --text-color: #10182b;
+  --accent: #3457c9;
+  --author-color: rgb(180, 20, 120);
+  --card-bg: rgba(16, 24, 43, 0.04);
+  --card-border: rgba(16, 24, 43, 0.1);
+  --card-border-hover: rgba(16, 24, 43, 0.2);
+  --hint-color: rgba(16, 24, 43, 0.68);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@keyframes shimmer {
+  from {
+    background-position: 20% 0%;
+  }
+  to {
+    background-position: 80% 35%;
+  }
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+@media (hover: hover) {
+  [data-tooltip] {
+    position: relative;
+  }
+
+  [data-tooltip]::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    top: calc(100% + 9px);
+    left: 50%;
+    transform: translateX(-50%) translateY(-4px);
+    background-color: rgba(15, 18, 30, 0.92);
+    color: #fff;
+    font-size: 12px;
+    line-height: 1.4;
+    padding: 5px 9px;
+    border-radius: 6px;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 120ms ease, transform 120ms ease;
+    z-index: 30;
+  }
+
+  [data-tooltip]:hover::after,
+  [data-tooltip]:focus-visible::after {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+/* !important so this always wins regardless of source order */
+.is-hidden {
+  display: none !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+body {
+  color: var(--text-color);
+  background-color: var(--bg-color);
+  background-image: radial-gradient(circle at 50% 0%, var(--bg-glow), transparent 60%);
+  background-size: 180% 180%;
+  background-position: 50% 0%;
+  animation: shimmer 16s ease-in-out infinite alternate;
+  transition: background-color 200ms ease, color 200ms ease;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  /* Fixed height so the title sits the same with or without the icon row */
+  min-height: 78px;
+}
+
+.topbar h1 {
+  font-size: clamp(1rem, 3vw, 1.25rem);
+  font-weight: 300;
+  letter-spacing: 1px;
+  margin: 0;
+  white-space: nowrap;
+}
+
+.topbar-controls {
+  display: flex;
+  gap: 10px;
+}
+
+.icon-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background-color: var(--card-bg);
+  border: 1px solid var(--card-border);
+  color: var(--text-color);
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 1;
+  cursor: pointer;
+  transition: background-color 150ms ease, border-color 150ms ease;
+}
+
+.icon-button:hover {
+  border-color: var(--card-border-hover);
+}
+
+.icon-button:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.icon-button:disabled:hover {
+  border-color: var(--card-border);
+}
+
+.main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  width: 100%;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.quote-nav {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+
+.icon-button-small {
+  width: 32px;
+  height: 32px;
+  font-size: 14px;
+}
+
+.search {
+  position: relative;
+  width: 100%;
+}
+
+.search-input {
+  width: 100%;
+  padding: 12px 40px 12px 16px;
+  border-radius: 12px;
+  border: 1px solid var(--card-border);
+  background-color: var(--card-bg);
+  color: var(--text-color);
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 150ms ease;
+}
+
+.search-input:focus {
+  border-color: var(--accent);
+}
+
+.search-input::placeholder {
+  color: var(--hint-color);
+}
+
+/* Replaced by .search-clear below, styling it reliably is too inconsistent */
+.search-input::-webkit-search-cancel-button {
+  display: none;
+}
+
+.search-clear {
+  position: absolute;
+  top: 50%;
+  right: 8px;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  border: none;
+  background: none;
+  color: var(--hint-color);
+  cursor: pointer;
+}
+
+.search-clear:hover {
+  color: var(--text-color);
+}
+
+.stage-wrapper {
+  position: relative;
+  width: 100%;
+}
+
+.stage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  width: 100%;
+  /* Tall enough that 1- and 2-line sayings render at the same height, so
+     the search box above doesn't shift as you move between them */
+  min-height: 280px;
+  padding: 40px 28px;
+  border-radius: 20px;
+  background-color: var(--card-bg);
+  border: 1px solid var(--card-border);
+  color: inherit;
+  font-family: inherit;
+  cursor: pointer;
+  /* main.js's renderQuote() swaps the text at 120ms, just before this fade completes */
+  transition: opacity 150ms ease, transform 150ms ease, border-color 150ms ease;
+}
+
+.stage:hover {
+  border-color: var(--card-border-hover);
+}
+
+.stage:active {
+  transform: scale(0.98);
+}
+
+.stage.is-changing {
+  opacity: 0;
+  transform: translateY(4px);
+}
+
+.not-found-card {
+  cursor: default;
+}
+
+.card-share-button {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+:root[data-theme="light"] .card-share-button {
+  background-color: rgba(16, 24, 43, 0.06);
+}
+
+@media (hover: hover) {
+  /* Anchored to the card edge instead of centered, so it doesn't overhang */
+  .card-share-button[data-tooltip]::after {
+    left: auto;
+    right: 0;
+    transform: translateY(-4px);
+  }
+
+  .card-share-button[data-tooltip]:hover::after,
+  .card-share-button[data-tooltip]:focus-visible::after {
+    transform: translateY(0);
+  }
+}
+
+.author {
+  font-size: clamp(0.8rem, 2vw, 1rem);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--author-color);
+}
+
+.quote {
+  font-size: clamp(1.4rem, 4.5vw, 2.5rem);
+  font-weight: 300;
+  line-height: 1.35;
+}
+
+.hint {
+  font-size: 12px;
+  color: var(--hint-color);
+  margin: 0;
+}
+
+.hint a {
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  text-underline-offset: 3px;
+  transition: text-decoration-color 150ms ease, color 150ms ease;
+}
+
+.hint a:hover,
+.hint a:focus-visible {
+  text-decoration-color: currentColor;
+  color: var(--text-color);
+}
+
+.hint-emphasis {
+  font-weight: 600;
+  color: var(--text-color);
+}
+
+.u-desktop-only {
+  display: none;
+}
+
+@media only screen and (min-width: 680px) {
+  .u-desktop-only {
+    display: inline;
+  }
+
+  .u-mobile-only {
+    display: none;
+  }
+}
+
+.results {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  max-height: 60vh;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.results li button {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  text-align: left;
+  padding: 14px 16px;
+  border-radius: 12px;
+  background-color: var(--card-bg);
+  border: 1px solid var(--card-border);
+  color: inherit;
+  font-family: inherit;
+  cursor: pointer;
+  transition: border-color 150ms ease;
+}
+
+.results li button:hover {
+  border-color: var(--card-border-hover);
+}
+
+.results-author {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--author-color);
+}
+
+.results-saying {
+  font-size: 0.95rem;
+}
+
+.results-empty {
+  text-align: center;
+  color: var(--hint-color);
+  padding: 20px;
+  list-style: none;
+}

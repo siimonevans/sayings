@@ -234,7 +234,7 @@ const QUOTES = [
   { author: "Nick L", saying: "my eyes are still trying to open" },
   { author: "Nick L", saying: "filthy grabber" },
   { author: "Abigail", saying: "you make an excellent note" },
-  { author: "Chris", saying: "do you want to borrow my lobster costume for project kick off" },
+  { author: "Chris L", saying: "do you want to borrow my lobster costume for project kick off" },
   { author: "Tomasz", saying: "Can you stop misspelling Apple Pay or I'll kill you" },
   { author: "Tomasz", saying: "You don't have a beard, you don't understand" },
   { author: "Tomasz", saying: "hey wizards" },
@@ -746,4 +746,5 @@ const QUOTES = [
   { author: "Millie", saying: "I make the bread, to GET the bread" },
   { author: "Weylon", saying: "all the glory and none of the blame" },
   { author: "Kev", saying: "I'm in a rebase dungeon" },
+  { author: "Phil M", saying: "John 'Horse Whisperer' Dunford" },
 ];

@@ -747,4 +747,5 @@ const QUOTES = [
   { author: "Weylon", saying: "all the glory and none of the blame" },
   { author: "Kev", saying: "I'm in a rebase dungeon" },
   { author: "Phil M", saying: "John 'Horse Whisperer' Dunford" },
+  { author: "Kat D", saying: "Three features in a trenchcoat" },
 ];

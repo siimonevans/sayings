@@ -748,4 +748,5 @@ const QUOTES = [
   { author: "Kev", saying: "I'm in a rebase dungeon" },
   { author: "Phil M", saying: "John 'Horse Whisperer' Dunford" },
   { author: "Kat D", saying: "Three features in a trenchcoat" },
+  { author: "Dan B", saying: "please excuse me while I wrangle this flamboyance of fail flamingoes" },
 ];

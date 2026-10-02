@@ -750,7 +750,8 @@ const QUOTES = [
   { author: "Kat D", saying: "Three features in a trenchcoat" },
   { author: "Dan B", saying: "please excuse me while I wrangle this flamboyance of fail flamingoes" },
   { author: "Arran", saying: "'get a life you absolute Productive nerd'" },
-  { author: "Nick Lee", saying: "wisteriaitious" },
+  { author: "Nick L", saying: "wisteriaitious" },
   { author: "Paul R", saying: "It's actually a new series on Netflix where people get hunted down by an accountant who was pushed over the edge" },
   { author: "Josh", saying: "they defy categorization" },
+  { author: "Chris L", saying: "even the fish is 1mb" },
 ];

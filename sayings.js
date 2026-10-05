@@ -754,4 +754,5 @@ const QUOTES = [
   { author: "Paul R", saying: "It's actually a new series on Netflix where people get hunted down by an accountant who was pushed over the edge" },
   { author: "Josh", saying: "they defy categorization" },
   { author: "Chris L", saying: "even the fish is 1mb" },
+  { author: "Nick L", saying: "she had a milk off with the other 10 applicants" },
 ];

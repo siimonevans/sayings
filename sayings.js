@@ -755,4 +755,5 @@ const QUOTES = [
   { author: "Josh", saying: "they defy categorization" },
   { author: "Chris L", saying: "even the fish is 1mb" },
   { author: "Nick L", saying: "she had a milk off with the other 10 applicants" },
+  { author: "Millie", saying: "ahhhh the ol chimken and eg" },
 ];

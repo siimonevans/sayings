@@ -756,4 +756,5 @@ const QUOTES = [
   { author: "Chris L", saying: "even the fish is 1mb" },
   { author: "Nick L", saying: "she had a milk off with the other 10 applicants" },
   { author: "Millie", saying: "ahhhh the ol chimken and eg" },
+  { author: "Nick L", saying: "it’s weird how often tiny font happens" },
 ];

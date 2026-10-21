@@ -758,4 +758,5 @@ const QUOTES = [
   { author: "Millie", saying: "ahhhh the ol chimken and eg" },
   { author: "Nick L", saying: "it’s weird how often tiny font happens" },
   { author: "Josh", saying: "I think the bird can also be relocated" },
+  { author: "Gabi", saying: "profit margin roadshow" },
 ];

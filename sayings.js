@@ -760,4 +760,5 @@ const QUOTES = [
   { author: "Josh", saying: "I think the bird can also be relocated" },
   { author: "Gabi", saying: "profit margin roadshow" },
   { author: "Josh", saying: "alternative medicine guru" },
+  { author: "Josh", saying: "homeopathy advocate" },
 ];

@@ -761,4 +761,5 @@ const QUOTES = [
   { author: "Gabi", saying: "profit margin roadshow" },
   { author: "Josh", saying: "alternative medicine guru" },
   { author: "Josh", saying: "homeopathy advocate" },
+  { author: "Chris L", saying: "don't order the linguine" },
 ];

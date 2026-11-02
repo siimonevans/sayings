@@ -762,4 +762,5 @@ const QUOTES = [
   { author: "Josh", saying: "alternative medicine guru" },
   { author: "Josh", saying: "homeopathy advocate" },
   { author: "Chris L", saying: "don't order the linguine" },
+  { author: "Lily", saying: "we are at the tail end of chaos" },
 ];

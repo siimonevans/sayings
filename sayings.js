@@ -763,4 +763,6 @@ const QUOTES = [
   { author: "Josh", saying: "homeopathy advocate" },
   { author: "Chris L", saying: "don't order the linguine" },
   { author: "Lily", saying: "we are at the tail end of chaos" },
+  { author: "Lizzie", saying: "Spreads the grump" },
+  { author: "Alex B", saying: "Never stand down, always double down" },
 ];

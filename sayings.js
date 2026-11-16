@@ -765,4 +765,5 @@ const QUOTES = [
   { author: "Lily", saying: "we are at the tail end of chaos" },
   { author: "Lizzie", saying: "Spreads the grump" },
   { author: "Alex B", saying: "Never stand down, always double down" },
+  { author: "Josh", saying: "It works, but it’s spaghetti" },
 ];

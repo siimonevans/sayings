@@ -766,4 +766,5 @@ const QUOTES = [
   { author: "Lizzie", saying: "Spreads the grump" },
   { author: "Alex B", saying: "Never stand down, always double down" },
   { author: "Josh", saying: "It works, but it’s spaghetti" },
+  { author: "Neal", saying: "Hopefully next year it’ll mainly be tiring" },
 ];

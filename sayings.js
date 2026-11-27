@@ -768,4 +768,5 @@ const QUOTES = [
   { author: "Josh", saying: "It works, but it’s spaghetti" },
   { author: "Neal", saying: "Hopefully next year it’ll mainly be tiring" },
   { author: "Millie", saying: "food is always a priority" },
+  { author: "Chris L", saying: "cheeky prawn in the crumble" },
 ];
